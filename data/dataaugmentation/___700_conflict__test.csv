@@ -1,0 +1,701 @@
+sentence,aspect,sentiment polarity
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Many would say the price is high, but the overall experience balances it out.",price,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"While adjusting to the screen took time, it eventually felt fine.",screen,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"The sound could be richer, but headphones help a lot.",sound,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"Though the screen isn't very large, it’s quite crisp and clear.",screen,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The RAM memory is okay, but I wish I had gone for the 8GB version.",RAM memory,conflict
+"Others are faster for the same price, but the speed here is consistent.",speed,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"There’s still some noise, but far less than before.",noise,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"I expected better reliability, but it’s not bad either.",reliability,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The integrated Intel 4000 graphics isn’t powerful enough for gaming, but it handles everyday tasks just fine.",integrated Intel 4000 graphics,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Could be slimmer in size, though not a major issue.",size,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Although the price is on the higher side, it feels worth the investment.",price,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"The screen is a bit small, but still manageable for most tasks.",screen,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"The track pad can be finicky, yet still usable.",track pad,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"Not blown away by the sound, but it’s acceptable.",sound,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"It still gets a bit warm, but the heat has definitely improved.",heat,conflict
+"While the noise isn’t totally gone, it’s tolerable.",noise,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"Don’t expect much from the integrated Intel 4000 graphics, but it works decently for general use.",integrated Intel 4000 graphics,conflict
+"I noticed some heat under load, but it’s not unbearable.",heat,conflict
+"It’s generally stable, though I have seen a drop in reliability.",reliability,conflict
+"Some features are missing, but overall it meets my needs.",features,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"Not the best speakers, but they do the job for casual use.",speakers,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"Not all the features are top-notch, though most are quite handy.",features,conflict
+"The price is a bit steep, but given the quality, it’s justifiable.",price,conflict
+"It runs fine on current RAM memory, but more would be better.",RAM memory,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict
+"It might seem overpriced at first, but the performance compensates for the price.",price,conflict
+"While the track pad isn’t perfect, it functions well enough.",track pad,conflict
+"The speakers aren't loud, but they are clear enough.",speakers,conflict
+"The size is a bit bulky, but acceptable given the build.",size,conflict
+"You could get better speed, but this one runs reliably.",speed,conflict

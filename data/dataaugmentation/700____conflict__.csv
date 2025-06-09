@@ -1,0 +1,701 @@
+sentence,aspect,sentiment polarity
+"At times, the input lag can be frustrating, but it usually gets the job done.",input lag,conflict
+"Functionally, the firmware is subpar, though it's not unusable.",firmware,conflict
+"I struggled with the cable length early on, but now it seems acceptable.",cable length,conflict
+"It takes effort to get used to the fingerprint setup, but eventually it works out.",fingerprint setup,conflict
+"Functionally, the UEFI settings is subpar, though it's not unusable.",UEFI settings,conflict
+"The restore partition underperforms sometimes, yet it hasn't caused major problems.",restore partition,conflict
+"I had issues with the power cable at first, but I've gotten used to it.",power cable,conflict
+"Honestly, the setup process isn't great, but it's not a deal breaker either.",setup process,conflict
+"Functionally, the keyboard shortcut guide is subpar, though it's not unusable.",keyboard shortcut guide,conflict
+"It's not the best input lag I've seen, though it serves its purpose.",input lag,conflict
+"Functionally, the dock connector is subpar, though it's not unusable.",dock connector,conflict
+"I wasn't thrilled with the charging LED, but it works well enough for now.",charging LED,conflict
+"Functionally, the boot animation is subpar, though it's not unusable.",boot animation,conflict
+"The battery cover underperforms sometimes, yet it hasn't caused major problems.",battery cover,conflict
+"It's not the best brightness setting I've seen, though it serves its purpose.",brightness setting,conflict
+"It takes effort to get used to the BIOS key, but eventually it works out.",BIOS key,conflict
+"Not impressed by the multi-language support, but it's passable in daily use.",multi-language support,conflict
+"Honestly, the LED indicator isn't great, but it's not a deal breaker either.",LED indicator,conflict
+"There are better language packs out there, but this one suffices.",language pack,conflict
+"Though the laptop lid tension is lacking in some ways, I can manage with it.",laptop lid tension,conflict
+"I struggled with the ventilation early on, but now it seems acceptable.",ventilation,conflict
+"At times, the torx screws can be frustrating, but it usually gets the job done.",torx screws,conflict
+"The power adapter has its flaws, yet I still find it useful.",power adapter,conflict
+"I struggled with the preloaded wallpaper early on, but now it seems acceptable.",preloaded wallpaper,conflict
+"The reset pinhole feels outdated, but it hasn't really held me back.",reset pinhole,conflict
+"It takes effort to get used to the port layout, but eventually it works out.",port layout,conflict
+"The brightness setting feels outdated, but it hasn't really held me back.",brightness setting,conflict
+"I don’t love the plastic smell, though I can’t complain much either.",plastic smell,conflict
+"I had issues with the camera placement at first, but I've gotten used to it.",camera placement,conflict
+"There are better camera placements out there, but this one suffices.",camera placement,conflict
+"There are better UI themes out there, but this one suffices.",UI theme,conflict
+"Functionally, the power adapter is subpar, though it's not unusable.",power adapter,conflict
+"It takes effort to get used to the hard drive noise, but eventually it works out.",hard drive noise,conflict
+"The brightness setting has its flaws, yet I still find it useful.",brightness setting,conflict
+"The keycap shape underperforms sometimes, yet it hasn't caused major problems.",keycap shape,conflict
+"I wasn't thrilled with the case material, but it works well enough for now.",case material,conflict
+"Despite the occasional hiccups with the ethernet port, I'm still satisfied overall.",ethernet port,conflict
+"I had issues with the fingerprint setup at first, but I've gotten used to it.",fingerprint setup,conflict
+"I wasn't thrilled with the serial number placement, but it works well enough for now.",serial number placement,conflict
+"I don’t love the brightness setting, though I can’t complain much either.",brightness setting,conflict
+"Functionally, the audio driver is subpar, though it's not unusable.",audio driver,conflict
+"I had issues with the cable length at first, but I've gotten used to it.",cable length,conflict
+"The startup guide isn’t very intuitive, but once you get the hang of it, it's okay.",startup guide,conflict
+"The lock slot leaves something to be desired, but it functions okay.",lock slot,conflict
+"At times, the hard drive noise can be frustrating, but it usually gets the job done.",hard drive noise,conflict
+"I had issues with the BIOS key at first, but I've gotten used to it.",BIOS key,conflict
+"I had issues with the brightness setting at first, but I've gotten used to it.",brightness setting,conflict
+"Though the UI theme is lacking in some ways, I can manage with it.",UI theme,conflict
+"The pre-installed apps wasn’t what I expected, but it ended up being fine.",pre-installed apps,conflict
+"The battery type leaves something to be desired, but it functions okay.",battery type,conflict
+"Though the firmware is lacking in some ways, I can manage with it.",firmware,conflict
+"The setup process leaves something to be desired, but it functions okay.",setup process,conflict
+"It's not the best installation guide I've seen, though it serves its purpose.",installation guide,conflict
+"I wasn't thrilled with the included software, but it works well enough for now.",included software,conflict
+"Honestly, the logo isn't great, but it's not a deal breaker either.",logo,conflict
+"The included software isn’t very intuitive, but once you get the hang of it, it's okay.",included software,conflict
+"There are better preloaded wallpapers out there, but this one suffices.",preloaded wallpaper,conflict
+"Though the camera placement is lacking in some ways, I can manage with it.",camera placement,conflict
+"At times, the fan speed can be frustrating, but it usually gets the job done.",fan speed,conflict
+"At times, the HDMI port can be frustrating, but it usually gets the job done.",HDMI port,conflict
+"Though the serial number placement is lacking in some ways, I can manage with it.",serial number placement,conflict
+"I had issues with the keyboard shortcut guide at first, but I've gotten used to it.",keyboard shortcut guide,conflict
+"Not impressed by the power cable, but it's passable in daily use.",power cable,conflict
+"At times, the laptop bottom can be frustrating, but it usually gets the job done.",laptop bottom,conflict
+"Honestly, the cable length isn't great, but it's not a deal breaker either.",cable length,conflict
+"I wasn't thrilled with the default OS, but it works well enough for now.",default OS,conflict
+"The reset pinhole underperforms sometimes, yet it hasn't caused major problems.",reset pinhole,conflict
+"The port layout feels outdated, but it hasn't really held me back.",port layout,conflict
+"The installation guide wasn’t what I expected, but it ended up being fine.",installation guide,conflict
+"Functionally, the rubber feet is subpar, though it's not unusable.",rubber feet,conflict
+"The battery type has its flaws, yet I still find it useful.",battery type,conflict
+"The timezone configuration underperforms sometimes, yet it hasn't caused major problems.",timezone configuration,conflict
+"Functionally, the warranty is subpar, though it's not unusable.",warranty,conflict
+"The system fonts leaves something to be desired, but it functions okay.",system fonts,conflict
+"Honestly, the RAM slot access isn't great, but it's not a deal breaker either.",RAM slot access,conflict
+"At times, the BIOS logo can be frustrating, but it usually gets the job done.",BIOS logo,conflict
+"It takes effort to get used to the timezone configuration, but eventually it works out.",timezone configuration,conflict
+"There are better reset pinholes out there, but this one suffices.",reset pinhole,conflict
+"The lock slot underperforms sometimes, yet it hasn't caused major problems.",lock slot,conflict
+"I struggled with the setup process early on, but now it seems acceptable.",setup process,conflict
+"At times, the webcam shutter can be frustrating, but it usually gets the job done.",webcam shutter,conflict
+"Though the instruction manual is lacking in some ways, I can manage with it.",instruction manual,conflict
+"I don’t love the touchpad texture, though I can’t complain much either.",touchpad texture,conflict
+"Not impressed by the startup sound, but it's passable in daily use.",startup sound,conflict
+"The USB-C port underperforms sometimes, yet it hasn't caused major problems.",USB-C port,conflict
+"Functionally, the input lag is subpar, though it's not unusable.",input lag,conflict
+"The warranty isn’t very intuitive, but once you get the hang of it, it's okay.",warranty,conflict
+I have mixed feelings about the battery cover; it's flawed but functional.,battery cover,conflict
+"I wasn't thrilled with the audio driver, but it works well enough for now.",audio driver,conflict
+"I struggled with the plastic smell early on, but now it seems acceptable.",plastic smell,conflict
+"I had issues with the instruction manual at first, but I've gotten used to it.",instruction manual,conflict
+"I had issues with the language pack at first, but I've gotten used to it.",language pack,conflict
+"There are better audio drivers out there, but this one suffices.",audio driver,conflict
+"Honestly, the ventilation isn't great, but it's not a deal breaker either.",ventilation,conflict
+"The reset pinhole has its flaws, yet I still find it useful.",reset pinhole,conflict
+"The noise level wasn’t what I expected, but it ended up being fine.",noise level,conflict
+"I struggled with the BIOS logo early on, but now it seems acceptable.",BIOS logo,conflict
+"Though the language settings is lacking in some ways, I can manage with it.",language settings,conflict
+"The ethernet port has its flaws, yet I still find it useful.",ethernet port,conflict
+"Functionally, the restore partition is subpar, though it's not unusable.",restore partition,conflict
+"The HDMI port feels outdated, but it hasn't really held me back.",HDMI port,conflict
+"Honestly, the case material isn't great, but it's not a deal breaker either.",case material,conflict
+"Honestly, the port layout isn't great, but it's not a deal breaker either.",port layout,conflict
+"I wasn't thrilled with the UI theme, but it works well enough for now.",UI theme,conflict
+"Though the help menu is lacking in some ways, I can manage with it.",help menu,conflict
+"I wasn't thrilled with the brightness setting, but it works well enough for now.",brightness setting,conflict
+"There are better laptop lid tensions out there, but this one suffices.",laptop lid tension,conflict
+"Despite the occasional hiccups with the microphone, I'm still satisfied overall.",microphone,conflict
+"Despite the occasional hiccups with the dock connector, I'm still satisfied overall.",dock connector,conflict
+"The default wallpaper feels outdated, but it hasn't really held me back.",default wallpaper,conflict
+"The bluetooth leaves something to be desired, but it functions okay.",bluetooth,conflict
+"It's not the best video output I've seen, though it serves its purpose.",video output,conflict
+"Honestly, the audio driver isn't great, but it's not a deal breaker either.",audio driver,conflict
+"Not impressed by the laptop lid tension, but it's passable in daily use.",laptop lid tension,conflict
+"I struggled with the RAM slot access early on, but now it seems acceptable.",RAM slot access,conflict
+"The screen coating isn’t very intuitive, but once you get the hang of it, it's okay.",screen coating,conflict
+"It takes effort to get used to the touchpad texture, but eventually it works out.",touchpad texture,conflict
+"I had issues with the help menu at first, but I've gotten used to it.",help menu,conflict
+"Functionally, the screen coating is subpar, though it's not unusable.",screen coating,conflict
+"Despite the occasional hiccups with the screen saver, I'm still satisfied overall.",screen saver,conflict
+"The battery cover wasn’t what I expected, but it ended up being fine.",battery cover,conflict
+"Though the fingerprint setup is lacking in some ways, I can manage with it.",fingerprint setup,conflict
+"Though the input lag is lacking in some ways, I can manage with it.",input lag,conflict
+"The case material isn’t very intuitive, but once you get the hang of it, it's okay.",case material,conflict
+"I wasn't thrilled with the noise level, but it works well enough for now.",noise level,conflict
+"I wasn't thrilled with the trackpoint, but it works well enough for now.",trackpoint,conflict
+"It's not the best screen rotation I've seen, though it serves its purpose.",screen rotation,conflict
+"Despite the occasional hiccups with the fan speed, I'm still satisfied overall.",fan speed,conflict
+"The torx screws wasn’t what I expected, but it ended up being fine.",torx screws,conflict
+"The included software feels outdated, but it hasn't really held me back.",included software,conflict
+"There are better included softwares out there, but this one suffices.",included software,conflict
+"I had issues with the touchpad texture at first, but I've gotten used to it.",touchpad texture,conflict
+"There are better BIOSs out there, but this one suffices.",BIOS,conflict
+"I wasn't thrilled with the boot animation, but it works well enough for now.",boot animation,conflict
+"The USB speed feels outdated, but it hasn't really held me back.",USB speed,conflict
+"The sleep mode underperforms sometimes, yet it hasn't caused major problems.",sleep mode,conflict
+"I don’t love the bluetooth, though I can’t complain much either.",bluetooth,conflict
+"The screen border wasn’t what I expected, but it ended up being fine.",screen border,conflict
+"The audio jack underperforms sometimes, yet it hasn't caused major problems.",audio jack,conflict
+"I don’t love the screen rotation, though I can’t complain much either.",screen rotation,conflict
+"The keyboard layout leaves something to be desired, but it functions okay.",keyboard layout,conflict
+"The USB speed has its flaws, yet I still find it useful.",USB speed,conflict
+"The help menu feels outdated, but it hasn't really held me back.",help menu,conflict
+"Despite the occasional hiccups with the instruction manual, I'm still satisfied overall.",instruction manual,conflict
+"It's not the best dock connector I've seen, though it serves its purpose.",dock connector,conflict
+"I don’t love the torx screws, though I can’t complain much either.",torx screws,conflict
+"Not impressed by the laptop bottom, but it's passable in daily use.",laptop bottom,conflict
+"At times, the default OS can be frustrating, but it usually gets the job done.",default OS,conflict
+"I don’t love the power button, though I can’t complain much either.",power button,conflict
+"The LED indicator leaves something to be desired, but it functions okay.",LED indicator,conflict
+"At times, the battery type can be frustrating, but it usually gets the job done.",battery type,conflict
+"The serial number placement wasn’t what I expected, but it ended up being fine.",serial number placement,conflict
+"The keycap shape feels outdated, but it hasn't really held me back.",keycap shape,conflict
+"It's not the best laptop lid tension I've seen, though it serves its purpose.",laptop lid tension,conflict
+"There are better BIOS keys out there, but this one suffices.",BIOS key,conflict
+"The default OS wasn’t what I expected, but it ended up being fine.",default OS,conflict
+"It's not the best driver CD I've seen, though it serves its purpose.",driver CD,conflict
+"It takes effort to get used to the mac address, but eventually it works out.",mac address,conflict
+"Though the hinge mechanism is lacking in some ways, I can manage with it.",hinge mechanism,conflict
+"I wasn't thrilled with the ethernet port, but it works well enough for now.",ethernet port,conflict
+I have mixed feelings about the installation guide; it's flawed but functional.,installation guide,conflict
+"It takes effort to get used to the setup process, but eventually it works out.",setup process,conflict
+"It takes effort to get used to the input lag, but eventually it works out.",input lag,conflict
+"I wasn't thrilled with the preloaded wallpaper, but it works well enough for now.",preloaded wallpaper,conflict
+"The boot animation has its flaws, yet I still find it useful.",boot animation,conflict
+"I don’t love the SD card slot, though I can’t complain much either.",SD card slot,conflict
+"Though the wireless toggle is lacking in some ways, I can manage with it.",wireless toggle,conflict
+"The language pack leaves something to be desired, but it functions okay.",language pack,conflict
+"I wasn't thrilled with the cable length, but it works well enough for now.",cable length,conflict
+"At times, the function keys can be frustrating, but it usually gets the job done.",function keys,conflict
+"Though the built-in manual is lacking in some ways, I can manage with it.",built-in manual,conflict
+"The sleep mode has its flaws, yet I still find it useful.",sleep mode,conflict
+"The screen rotation underperforms sometimes, yet it hasn't caused major problems.",screen rotation,conflict
+"It's not the best webcam location I've seen, though it serves its purpose.",webcam location,conflict
+"There are better installation guides out there, but this one suffices.",installation guide,conflict
+"There are better audio jacks out there, but this one suffices.",audio jack,conflict
+"It takes effort to get used to the battery type, but eventually it works out.",battery type,conflict
+"I don’t love the UEFI settings, though I can’t complain much either.",UEFI settings,conflict
+"I wasn't thrilled with the instruction manual, but it works well enough for now.",instruction manual,conflict
+"I don’t love the HDMI port, though I can’t complain much either.",HDMI port,conflict
+"I don’t love the screen coating, though I can’t complain much either.",screen coating,conflict
+"I had issues with the touchscreen at first, but I've gotten used to it.",touchscreen,conflict
+"It's not the best UEFI settings I've seen, though it serves its purpose.",UEFI settings,conflict
+"The LED indicator wasn’t what I expected, but it ended up being fine.",LED indicator,conflict
+"It takes effort to get used to the power button, but eventually it works out.",power button,conflict
+"At times, the LED indicator can be frustrating, but it usually gets the job done.",LED indicator,conflict
+"Not impressed by the LED indicator, but it's passable in daily use.",LED indicator,conflict
+"I had issues with the default browser at first, but I've gotten used to it.",default browser,conflict
+"Though the HDMI port is lacking in some ways, I can manage with it.",HDMI port,conflict
+"I wasn't thrilled with the touchpad texture, but it works well enough for now.",touchpad texture,conflict
+"The plastic smell wasn’t what I expected, but it ended up being fine.",plastic smell,conflict
+"At times, the hinge mechanism can be frustrating, but it usually gets the job done.",hinge mechanism,conflict
+"Despite the occasional hiccups with the dock support, I'm still satisfied overall.",dock support,conflict
+"Not impressed by the brightness setting, but it's passable in daily use.",brightness setting,conflict
+"Functionally, the touchscreen is subpar, though it's not unusable.",touchscreen,conflict
+"The BIOS logo wasn’t what I expected, but it ended up being fine.",BIOS logo,conflict
+"The webcam location leaves something to be desired, but it functions okay.",webcam location,conflict
+"I struggled with the logo early on, but now it seems acceptable.",logo,conflict
+"Not impressed by the pre-installed apps, but it's passable in daily use.",pre-installed apps,conflict
+"I don’t love the startup guide, though I can’t complain much either.",startup guide,conflict
+"I struggled with the camera placement early on, but now it seems acceptable.",camera placement,conflict
+"It's not the best UI theme I've seen, though it serves its purpose.",UI theme,conflict
+"Honestly, the power cable isn't great, but it's not a deal breaker either.",power cable,conflict
+"Though the build instructions is lacking in some ways, I can manage with it.",build instructions,conflict
+"At times, the system fonts can be frustrating, but it usually gets the job done.",system fonts,conflict
+"The battery type underperforms sometimes, yet it hasn't caused major problems.",battery type,conflict
+"Though the boot animation is lacking in some ways, I can manage with it.",boot animation,conflict
+"It takes effort to get used to the driver CD, but eventually it works out.",driver CD,conflict
+I have mixed feelings about the webcam shutter; it's flawed but functional.,webcam shutter,conflict
+"At times, the screen saver can be frustrating, but it usually gets the job done.",screen saver,conflict
+"The touchscreen wasn’t what I expected, but it ended up being fine.",touchscreen,conflict
+"Though the USB-C port is lacking in some ways, I can manage with it.",USB-C port,conflict
+"The driver support wasn’t what I expected, but it ended up being fine.",driver support,conflict
+"Not impressed by the microphone, but it's passable in daily use.",microphone,conflict
+"Despite the occasional hiccups with the default OS, I'm still satisfied overall.",default OS,conflict
+"Functionally, the default browser is subpar, though it's not unusable.",default browser,conflict
+"I had issues with the power adapter at first, but I've gotten used to it.",power adapter,conflict
+"The touchpad texture underperforms sometimes, yet it hasn't caused major problems.",touchpad texture,conflict
+I have mixed feelings about the driver CD; it's flawed but functional.,driver CD,conflict
+"I struggled with the charging port location early on, but now it seems acceptable.",charging port location,conflict
+"There are better sleep modes out there, but this one suffices.",sleep mode,conflict
+"The video output underperforms sometimes, yet it hasn't caused major problems.",video output,conflict
+"There are better LED indicators out there, but this one suffices.",LED indicator,conflict
+"The dock connector feels outdated, but it hasn't really held me back.",dock connector,conflict
+"I struggled with the hard drive noise early on, but now it seems acceptable.",hard drive noise,conflict
+"The lock slot isn’t very intuitive, but once you get the hang of it, it's okay.",lock slot,conflict
+"I struggled with the external display detection early on, but now it seems acceptable.",external display detection,conflict
+"I struggled with the laptop lid tension early on, but now it seems acceptable.",laptop lid tension,conflict
+"At times, the startup sound can be frustrating, but it usually gets the job done.",startup sound,conflict
+"The wireless toggle leaves something to be desired, but it functions okay.",wireless toggle,conflict
+"The screen border leaves something to be desired, but it functions okay.",screen border,conflict
+"I wasn't thrilled with the lock slot, but it works well enough for now.",lock slot,conflict
+"Despite the occasional hiccups with the mac address, I'm still satisfied overall.",mac address,conflict
+"At times, the external display detection can be frustrating, but it usually gets the job done.",external display detection,conflict
+"Honestly, the laptop lid tension isn't great, but it's not a deal breaker either.",laptop lid tension,conflict
+"Functionally, the ventilation is subpar, though it's not unusable.",ventilation,conflict
+"The build instructions wasn’t what I expected, but it ended up being fine.",build instructions,conflict
+"The plastic smell leaves something to be desired, but it functions okay.",plastic smell,conflict
+"The keyboard shortcut guide feels outdated, but it hasn't really held me back.",keyboard shortcut guide,conflict
+"I had issues with the logo at first, but I've gotten used to it.",logo,conflict
+"Though the noise level is lacking in some ways, I can manage with it.",noise level,conflict
+I have mixed feelings about the screen coating; it's flawed but functional.,screen coating,conflict
+"I had issues with the UI theme at first, but I've gotten used to it.",UI theme,conflict
+"I wasn't thrilled with the color options, but it works well enough for now.",color options,conflict
+"The webcam location underperforms sometimes, yet it hasn't caused major problems.",webcam location,conflict
+"The touchpad texture isn’t very intuitive, but once you get the hang of it, it's okay.",touchpad texture,conflict
+"The startup sound isn’t very intuitive, but once you get the hang of it, it's okay.",startup sound,conflict
+"The noise level feels outdated, but it hasn't really held me back.",noise level,conflict
+"The microphone leaves something to be desired, but it functions okay.",microphone,conflict
+"Not impressed by the dock support, but it's passable in daily use.",dock support,conflict
+"Despite the occasional hiccups with the case material, I'm still satisfied overall.",case material,conflict
+"The power cable has its flaws, yet I still find it useful.",power cable,conflict
+"At times, the default browser can be frustrating, but it usually gets the job done.",default browser,conflict
+"There are better power cables out there, but this one suffices.",power cable,conflict
+"There are better serial number placements out there, but this one suffices.",serial number placement,conflict
+"I had issues with the preloaded wallpaper at first, but I've gotten used to it.",preloaded wallpaper,conflict
+"I had issues with the noise level at first, but I've gotten used to it.",noise level,conflict
+"Despite the occasional hiccups with the charging LED, I'm still satisfied overall.",charging LED,conflict
+"The audio driver wasn’t what I expected, but it ended up being fine.",audio driver,conflict
+"It takes effort to get used to the laptop bottom, but eventually it works out.",laptop bottom,conflict
+"Honestly, the SD card slot isn't great, but it's not a deal breaker either.",SD card slot,conflict
+"The dock support underperforms sometimes, yet it hasn't caused major problems.",dock support,conflict
+"There are better dock connectors out there, but this one suffices.",dock connector,conflict
+"I had issues with the pre-installed apps at first, but I've gotten used to it.",pre-installed apps,conflict
+"It's not the best charging LED I've seen, though it serves its purpose.",charging LED,conflict
+"It takes effort to get used to the system fonts, but eventually it works out.",system fonts,conflict
+"I don’t love the noise level, though I can’t complain much either.",noise level,conflict
+"The timezone configuration leaves something to be desired, but it functions okay.",timezone configuration,conflict
+"The charging port location underperforms sometimes, yet it hasn't caused major problems.",charging port location,conflict
+"The ethernet port feels outdated, but it hasn't really held me back.",ethernet port,conflict
+"I had issues with the USB speed at first, but I've gotten used to it.",USB speed,conflict
+"The firmware underperforms sometimes, yet it hasn't caused major problems.",firmware,conflict
+"At times, the keyboard font can be frustrating, but it usually gets the job done.",keyboard font,conflict
+"Functionally, the SD card slot is subpar, though it's not unusable.",SD card slot,conflict
+"The driver CD wasn’t what I expected, but it ended up being fine.",driver CD,conflict
+"It takes effort to get used to the firmware, but eventually it works out.",firmware,conflict
+I have mixed feelings about the audio jack; it's flawed but functional.,audio jack,conflict
+"The fingerprint setup underperforms sometimes, yet it hasn't caused major problems.",fingerprint setup,conflict
+"The touchpad texture feels outdated, but it hasn't really held me back.",touchpad texture,conflict
+"Not impressed by the torx screws, but it's passable in daily use.",torx screws,conflict
+"The boot animation underperforms sometimes, yet it hasn't caused major problems.",boot animation,conflict
+"There are better mac addresss out there, but this one suffices.",mac address,conflict
+"I struggled with the touchpad texture early on, but now it seems acceptable.",touchpad texture,conflict
+"Despite the occasional hiccups with the driver CD, I'm still satisfied overall.",driver CD,conflict
+"Honestly, the rubber feet isn't great, but it's not a deal breaker either.",rubber feet,conflict
+"I don’t love the multi-language support, though I can’t complain much either.",multi-language support,conflict
+"The dock connector wasn’t what I expected, but it ended up being fine.",dock connector,conflict
+"The graphics control panel feels outdated, but it hasn't really held me back.",graphics control panel,conflict
+"The BIOS key isn’t very intuitive, but once you get the hang of it, it's okay.",BIOS key,conflict
+"The mac address has its flaws, yet I still find it useful.",mac address,conflict
+"The ethernet port leaves something to be desired, but it functions okay.",ethernet port,conflict
+"I don’t love the language settings, though I can’t complain much either.",language settings,conflict
+"Honestly, the bluetooth isn't great, but it's not a deal breaker either.",bluetooth,conflict
+"The preloaded wallpaper feels outdated, but it hasn't really held me back.",preloaded wallpaper,conflict
+"Honestly, the UI theme isn't great, but it's not a deal breaker either.",UI theme,conflict
+"Functionally, the reset pinhole is subpar, though it's not unusable.",reset pinhole,conflict
+"The laptop bottom wasn’t what I expected, but it ended up being fine.",laptop bottom,conflict
+"I wasn't thrilled with the built-in manual, but it works well enough for now.",built-in manual,conflict
+"The noise level has its flaws, yet I still find it useful.",noise level,conflict
+"Honestly, the BIOS logo isn't great, but it's not a deal breaker either.",BIOS logo,conflict
+"I had issues with the graphics control panel at first, but I've gotten used to it.",graphics control panel,conflict
+I have mixed feelings about the hinge mechanism; it's flawed but functional.,hinge mechanism,conflict
+"At times, the screen coating can be frustrating, but it usually gets the job done.",screen coating,conflict
+I have mixed feelings about the wifi antenna; it's flawed but functional.,wifi antenna,conflict
+"The USB-C port leaves something to be desired, but it functions okay.",USB-C port,conflict
+"I had issues with the function keys at first, but I've gotten used to it.",function keys,conflict
+"I struggled with the webcam shutter early on, but now it seems acceptable.",webcam shutter,conflict
+"Functionally, the battery cover is subpar, though it's not unusable.",battery cover,conflict
+"It's not the best power cable I've seen, though it serves its purpose.",power cable,conflict
+"I wasn't thrilled with the power button, but it works well enough for now.",power button,conflict
+I have mixed feelings about the USB recognition; it's flawed but functional.,USB recognition,conflict
+"The ethernet port isn’t very intuitive, but once you get the hang of it, it's okay.",ethernet port,conflict
+"The driver support has its flaws, yet I still find it useful.",driver support,conflict
+I have mixed feelings about the language pack; it's flawed but functional.,language pack,conflict
+"I don’t love the UI theme, though I can’t complain much either.",UI theme,conflict
+"Despite the occasional hiccups with the packaging, I'm still satisfied overall.",packaging,conflict
+"The power cable isn’t very intuitive, but once you get the hang of it, it's okay.",power cable,conflict
+"Not impressed by the startup guide, but it's passable in daily use.",startup guide,conflict
+"I struggled with the timezone configuration early on, but now it seems acceptable.",timezone configuration,conflict
+"Honestly, the multi-language support isn't great, but it's not a deal breaker either.",multi-language support,conflict
+"Despite the occasional hiccups with the battery type, I'm still satisfied overall.",battery type,conflict
+"I had issues with the included software at first, but I've gotten used to it.",included software,conflict
+"I wasn't thrilled with the screen rotation, but it works well enough for now.",screen rotation,conflict
+"The keyboard shortcut guide isn’t very intuitive, but once you get the hang of it, it's okay.",keyboard shortcut guide,conflict
+"Not impressed by the hard drive noise, but it's passable in daily use.",hard drive noise,conflict
+"I don’t love the power brick, though I can’t complain much either.",power brick,conflict
+"Though the screen saver is lacking in some ways, I can manage with it.",screen saver,conflict
+"Honestly, the video output isn't great, but it's not a deal breaker either.",video output,conflict
+"It takes effort to get used to the screen coating, but eventually it works out.",screen coating,conflict
+"I had issues with the HDMI port at first, but I've gotten used to it.",HDMI port,conflict
+I have mixed feelings about the screen saver; it's flawed but functional.,screen saver,conflict
+"I had issues with the hard drive noise at first, but I've gotten used to it.",hard drive noise,conflict
+"It takes effort to get used to the wireless toggle, but eventually it works out.",wireless toggle,conflict
+"The noise level isn’t very intuitive, but once you get the hang of it, it's okay.",noise level,conflict
+"At times, the keycap shape can be frustrating, but it usually gets the job done.",keycap shape,conflict
+"The webcam shutter isn’t very intuitive, but once you get the hang of it, it's okay.",webcam shutter,conflict
+"I had issues with the BIOS logo at first, but I've gotten used to it.",BIOS logo,conflict
+"The RAM slot access has its flaws, yet I still find it useful.",RAM slot access,conflict
+"Despite the occasional hiccups with the setup process, I'm still satisfied overall.",setup process,conflict
+"There are better SD card slots out there, but this one suffices.",SD card slot,conflict
+"Not impressed by the default wallpaper, but it's passable in daily use.",default wallpaper,conflict
+"The logo has its flaws, yet I still find it useful.",logo,conflict
+"Honestly, the default browser isn't great, but it's not a deal breaker either.",default browser,conflict
+"It takes effort to get used to the webcam shutter, but eventually it works out.",webcam shutter,conflict
+"The port layout leaves something to be desired, but it functions okay.",port layout,conflict
+"The webcam shutter leaves something to be desired, but it functions okay.",webcam shutter,conflict
+"The pre-installed apps isn’t very intuitive, but once you get the hang of it, it's okay.",pre-installed apps,conflict
+"Not impressed by the touchscreen, but it's passable in daily use.",touchscreen,conflict
+"The power cable wasn’t what I expected, but it ended up being fine.",power cable,conflict
+"At times, the graphics control panel can be frustrating, but it usually gets the job done.",graphics control panel,conflict
+"There are better bluetooths out there, but this one suffices.",bluetooth,conflict
+"Despite the occasional hiccups with the startup sound, I'm still satisfied overall.",startup sound,conflict
+"Not impressed by the battery type, but it's passable in daily use.",battery type,conflict
+"Despite the occasional hiccups with the touchpad texture, I'm still satisfied overall.",touchpad texture,conflict
+"At times, the language settings can be frustrating, but it usually gets the job done.",language settings,conflict
+"At times, the driver support can be frustrating, but it usually gets the job done.",driver support,conflict
+"Though the microphone is lacking in some ways, I can manage with it.",microphone,conflict
+"Though the webcam location is lacking in some ways, I can manage with it.",webcam location,conflict
+"Functionally, the graphics control panel is subpar, though it's not unusable.",graphics control panel,conflict
+"I had issues with the video output at first, but I've gotten used to it.",video output,conflict
+"The instruction manual underperforms sometimes, yet it hasn't caused major problems.",instruction manual,conflict
+I have mixed feelings about the packaging; it's flawed but functional.,packaging,conflict
+I have mixed feelings about the system fonts; it's flawed but functional.,system fonts,conflict
+"It takes effort to get used to the boot animation, but eventually it works out.",boot animation,conflict
+"Functionally, the BIOS is subpar, though it's not unusable.",BIOS,conflict
+"Though the power button is lacking in some ways, I can manage with it.",power button,conflict
+"The RAM slot access underperforms sometimes, yet it hasn't caused major problems.",RAM slot access,conflict
+"Despite the occasional hiccups with the input lag, I'm still satisfied overall.",input lag,conflict
+I have mixed feelings about the screen border; it's flawed but functional.,screen border,conflict
+I have mixed feelings about the power cable; it's flawed but functional.,power cable,conflict
+"I had issues with the boot animation at first, but I've gotten used to it.",boot animation,conflict
+"It takes effort to get used to the included software, but eventually it works out.",included software,conflict
+"The BIOS wasn’t what I expected, but it ended up being fine.",BIOS,conflict
+"I struggled with the fingerprint setup early on, but now it seems acceptable.",fingerprint setup,conflict
+"Despite the occasional hiccups with the warranty, I'm still satisfied overall.",warranty,conflict
+"Functionally, the brightness setting is subpar, though it's not unusable.",brightness setting,conflict
+"I struggled with the audio jack early on, but now it seems acceptable.",audio jack,conflict
+"I don’t love the hinge mechanism, though I can’t complain much either.",hinge mechanism,conflict
+"It takes effort to get used to the keyboard font, but eventually it works out.",keyboard font,conflict
+"Despite the occasional hiccups with the graphics control panel, I'm still satisfied overall.",graphics control panel,conflict
+"Not impressed by the keyboard layout, but it's passable in daily use.",keyboard layout,conflict
+"At times, the build instructions can be frustrating, but it usually gets the job done.",build instructions,conflict
+"Honestly, the warranty isn't great, but it's not a deal breaker either.",warranty,conflict
+"The input lag has its flaws, yet I still find it useful.",input lag,conflict
+"Functionally, the USB-C port is subpar, though it's not unusable.",USB-C port,conflict
+"Not impressed by the power button, but it's passable in daily use.",power button,conflict
+"I don’t love the fan speed, though I can’t complain much either.",fan speed,conflict
+"The keycap shape wasn’t what I expected, but it ended up being fine.",keycap shape,conflict
+"The color options leaves something to be desired, but it functions okay.",color options,conflict
+"The microphone isn’t very intuitive, but once you get the hang of it, it's okay.",microphone,conflict
+"The screen saver leaves something to be desired, but it functions okay.",screen saver,conflict
+"Despite the occasional hiccups with the power brick, I'm still satisfied overall.",power brick,conflict
+"I wasn't thrilled with the default wallpaper, but it works well enough for now.",default wallpaper,conflict
+"The driver CD isn’t very intuitive, but once you get the hang of it, it's okay.",driver CD,conflict
+"Though the screen tilt is lacking in some ways, I can manage with it.",screen tilt,conflict
+"The audio jack feels outdated, but it hasn't really held me back.",audio jack,conflict
+"It's not the best dock support I've seen, though it serves its purpose.",dock support,conflict
+"The ethernet port wasn’t what I expected, but it ended up being fine.",ethernet port,conflict
+I have mixed feelings about the camera placement; it's flawed but functional.,camera placement,conflict
+"At times, the bluetooth can be frustrating, but it usually gets the job done.",bluetooth,conflict
+"The fan speed isn’t very intuitive, but once you get the hang of it, it's okay.",fan speed,conflict
+"The audio driver underperforms sometimes, yet it hasn't caused major problems.",audio driver,conflict
+"I struggled with the default OS early on, but now it seems acceptable.",default OS,conflict
+"It takes effort to get used to the touchscreen, but eventually it works out.",touchscreen,conflict
+"I don’t love the USB-C port, though I can’t complain much either.",USB-C port,conflict
+"It's not the best startup sound I've seen, though it serves its purpose.",startup sound,conflict
+"I struggled with the installation guide early on, but now it seems acceptable.",installation guide,conflict
+"Not impressed by the BIOS logo, but it's passable in daily use.",BIOS logo,conflict
+"Though the pre-installed apps is lacking in some ways, I can manage with it.",pre-installed apps,conflict
+"I wasn't thrilled with the build instructions, but it works well enough for now.",build instructions,conflict
+"I wasn't thrilled with the BIOS key, but it works well enough for now.",BIOS key,conflict
+"I wasn't thrilled with the graphics control panel, but it works well enough for now.",graphics control panel,conflict
+"The case material feels outdated, but it hasn't really held me back.",case material,conflict
+"The help menu isn’t very intuitive, but once you get the hang of it, it's okay.",help menu,conflict
+"I wasn't thrilled with the bluetooth, but it works well enough for now.",bluetooth,conflict
+I have mixed feelings about the touchscreen; it's flawed but functional.,touchscreen,conflict
+"Not impressed by the serial number placement, but it's passable in daily use.",serial number placement,conflict
+"I struggled with the keyboard layout early on, but now it seems acceptable.",keyboard layout,conflict
+"The camera placement leaves something to be desired, but it functions okay.",camera placement,conflict
+"There are better fan speeds out there, but this one suffices.",fan speed,conflict
+"Though the BIOS is lacking in some ways, I can manage with it.",BIOS,conflict
+"There are better system fontss out there, but this one suffices.",system fonts,conflict
+"The microphone feels outdated, but it hasn't really held me back.",microphone,conflict
+"The included software wasn’t what I expected, but it ended up being fine.",included software,conflict
+"It's not the best function keys I've seen, though it serves its purpose.",function keys,conflict
+"It's not the best ethernet port I've seen, though it serves its purpose.",ethernet port,conflict
+"I don’t love the trackpoint, though I can’t complain much either.",trackpoint,conflict
+"It takes effort to get used to the dock support, but eventually it works out.",dock support,conflict
+"At times, the installation guide can be frustrating, but it usually gets the job done.",installation guide,conflict
+"Though the keyboard font is lacking in some ways, I can manage with it.",keyboard font,conflict
+"The quick start guide isn’t very intuitive, but once you get the hang of it, it's okay.",quick start guide,conflict
+"The keyboard font underperforms sometimes, yet it hasn't caused major problems.",keyboard font,conflict
+"There are better plastic smells out there, but this one suffices.",plastic smell,conflict
+"It's not the best restore partition I've seen, though it serves its purpose.",restore partition,conflict
+"Despite the occasional hiccups with the pre-installed apps, I'm still satisfied overall.",pre-installed apps,conflict
+"Though the startup sound is lacking in some ways, I can manage with it.",startup sound,conflict
+"Honestly, the wireless toggle isn't great, but it's not a deal breaker either.",wireless toggle,conflict
+"I had issues with the external display detection at first, but I've gotten used to it.",external display detection,conflict
+"Not impressed by the built-in manual, but it's passable in daily use.",built-in manual,conflict
+"Despite the occasional hiccups with the webcam shutter, I'm still satisfied overall.",webcam shutter,conflict
+"The quick start guide has its flaws, yet I still find it useful.",quick start guide,conflict
+"I had issues with the SD card slot at first, but I've gotten used to it.",SD card slot,conflict
+"It's not the best language pack I've seen, though it serves its purpose.",language pack,conflict
+"The SD card slot wasn’t what I expected, but it ended up being fine.",SD card slot,conflict
+I have mixed feelings about the BIOS logo; it's flawed but functional.,BIOS logo,conflict
+"I wasn't thrilled with the camera placement, but it works well enough for now.",camera placement,conflict
+"I struggled with the UEFI settings early on, but now it seems acceptable.",UEFI settings,conflict
+"Though the LED indicator is lacking in some ways, I can manage with it.",LED indicator,conflict
+"I wasn't thrilled with the ventilation, but it works well enough for now.",ventilation,conflict
+"At times, the cable length can be frustrating, but it usually gets the job done.",cable length,conflict
+"There are better multi-language supports out there, but this one suffices.",multi-language support,conflict
+"The quick start guide leaves something to be desired, but it functions okay.",quick start guide,conflict
+"I struggled with the multi-language support early on, but now it seems acceptable.",multi-language support,conflict
+I have mixed feelings about the reset pinhole; it's flawed but functional.,reset pinhole,conflict
+"I had issues with the language settings at first, but I've gotten used to it.",language settings,conflict
+"Honestly, the fan speed isn't great, but it's not a deal breaker either.",fan speed,conflict
+"I don’t love the hard drive noise, though I can’t complain much either.",hard drive noise,conflict
+"The system fonts has its flaws, yet I still find it useful.",system fonts,conflict
+"Despite the occasional hiccups with the USB recognition, I'm still satisfied overall.",USB recognition,conflict
+"The UI theme isn’t very intuitive, but once you get the hang of it, it's okay.",UI theme,conflict
+"I struggled with the screen border early on, but now it seems acceptable.",screen border,conflict
+"Despite the occasional hiccups with the built-in manual, I'm still satisfied overall.",built-in manual,conflict
+"The laptop lid tension wasn’t what I expected, but it ended up being fine.",laptop lid tension,conflict
+"The dock connector has its flaws, yet I still find it useful.",dock connector,conflict
+I have mixed feelings about the charging LED; it's flawed but functional.,charging LED,conflict
+"Honestly, the plastic smell isn't great, but it's not a deal breaker either.",plastic smell,conflict
+"Not impressed by the HDMI port, but it's passable in daily use.",HDMI port,conflict
+"Despite the occasional hiccups with the BIOS logo, I'm still satisfied overall.",BIOS logo,conflict
+"At times, the default wallpaper can be frustrating, but it usually gets the job done.",default wallpaper,conflict
+"I had issues with the dock support at first, but I've gotten used to it.",dock support,conflict
+"I wasn't thrilled with the setup process, but it works well enough for now.",setup process,conflict
+"The hinge mechanism has its flaws, yet I still find it useful.",hinge mechanism,conflict
+"There are better USB recognitions out there, but this one suffices.",USB recognition,conflict
+"Not impressed by the plastic smell, but it's passable in daily use.",plastic smell,conflict
+"I struggled with the BIOS key early on, but now it seems acceptable.",BIOS key,conflict
+"There are better driver supports out there, but this one suffices.",driver support,conflict
+"It's not the best BIOS key I've seen, though it serves its purpose.",BIOS key,conflict
+"I struggled with the driver support early on, but now it seems acceptable.",driver support,conflict
+"At times, the UEFI settings can be frustrating, but it usually gets the job done.",UEFI settings,conflict
+I have mixed feelings about the video output; it's flawed but functional.,video output,conflict
+"The installation guide leaves something to be desired, but it functions okay.",installation guide,conflict
+I have mixed feelings about the power brick; it's flawed but functional.,power brick,conflict
+"The power button leaves something to be desired, but it functions okay.",power button,conflict
+"I struggled with the power cable early on, but now it seems acceptable.",power cable,conflict
+"I struggled with the wireless toggle early on, but now it seems acceptable.",wireless toggle,conflict
+"Functionally, the instruction manual is subpar, though it's not unusable.",instruction manual,conflict
+"The quick start guide feels outdated, but it hasn't really held me back.",quick start guide,conflict
+"I had issues with the caps lock indicator at first, but I've gotten used to it.",caps lock indicator,conflict
+"I wasn't thrilled with the warranty, but it works well enough for now.",warranty,conflict
+"The language settings has its flaws, yet I still find it useful.",language settings,conflict
+"The setup process underperforms sometimes, yet it hasn't caused major problems.",setup process,conflict
+"It's not the best plastic smell I've seen, though it serves its purpose.",plastic smell,conflict
+"There are better default browsers out there, but this one suffices.",default browser,conflict
+"I struggled with the language pack early on, but now it seems acceptable.",language pack,conflict
+"I wasn't thrilled with the wifi antenna, but it works well enough for now.",wifi antenna,conflict
+"I had issues with the multi-language support at first, but I've gotten used to it.",multi-language support,conflict
+"Though the driver support is lacking in some ways, I can manage with it.",driver support,conflict
+"Despite the occasional hiccups with the installation guide, I'm still satisfied overall.",installation guide,conflict
+"I wasn't thrilled with the webcam location, but it works well enough for now.",webcam location,conflict
+"The bluetooth has its flaws, yet I still find it useful.",bluetooth,conflict
+"It takes effort to get used to the driver support, but eventually it works out.",driver support,conflict
+"I struggled with the keyboard font early on, but now it seems acceptable.",keyboard font,conflict
+"The audio driver has its flaws, yet I still find it useful.",audio driver,conflict
+"I don’t love the instruction manual, though I can’t complain much either.",instruction manual,conflict
+"I wasn't thrilled with the USB recognition, but it works well enough for now.",USB recognition,conflict
+"There are better battery covers out there, but this one suffices.",battery cover,conflict
+"It's not the best driver support I've seen, though it serves its purpose.",driver support,conflict
+"The UI theme leaves something to be desired, but it functions okay.",UI theme,conflict
+"At times, the case material can be frustrating, but it usually gets the job done.",case material,conflict
+"The port layout wasn’t what I expected, but it ended up being fine.",port layout,conflict
+"The bluetooth wasn’t what I expected, but it ended up being fine.",bluetooth,conflict
+"Functionally, the language pack is subpar, though it's not unusable.",language pack,conflict
+"I don’t love the keyboard font, though I can’t complain much either.",keyboard font,conflict
+"I wasn't thrilled with the screen coating, but it works well enough for now.",screen coating,conflict
+"I struggled with the brightness setting early on, but now it seems acceptable.",brightness setting,conflict
+"Though the plastic smell is lacking in some ways, I can manage with it.",plastic smell,conflict
+"There are better dock supports out there, but this one suffices.",dock support,conflict
+"The wifi antenna has its flaws, yet I still find it useful.",wifi antenna,conflict
+I have mixed feelings about the laptop bottom; it's flawed but functional.,laptop bottom,conflict
+"There are better screen tilts out there, but this one suffices.",screen tilt,conflict
+"The built-in manual wasn’t what I expected, but it ended up being fine.",built-in manual,conflict
+I have mixed feelings about the touchpad texture; it's flawed but functional.,touchpad texture,conflict
+"Though the hard drive noise is lacking in some ways, I can manage with it.",hard drive noise,conflict
+"The dock connector leaves something to be desired, but it functions okay.",dock connector,conflict
+"I don’t love the LED indicator, though I can’t complain much either.",LED indicator,conflict
+"The ventilation wasn’t what I expected, but it ended up being fine.",ventilation,conflict
+"At times, the touchpad texture can be frustrating, but it usually gets the job done.",touchpad texture,conflict
+"It's not the best screen saver I've seen, though it serves its purpose.",screen saver,conflict
+"The input lag feels outdated, but it hasn't really held me back.",input lag,conflict
+"I don’t love the ethernet port, though I can’t complain much either.",ethernet port,conflict
+"The preloaded wallpaper wasn’t what I expected, but it ended up being fine.",preloaded wallpaper,conflict
+I have mixed feelings about the battery type; it's flawed but functional.,battery type,conflict
+"It's not the best port layout I've seen, though it serves its purpose.",port layout,conflict
+"It takes effort to get used to the default OS, but eventually it works out.",default OS,conflict
+"There are better UEFI settingss out there, but this one suffices.",UEFI settings,conflict
+"Despite the occasional hiccups with the webcam location, I'm still satisfied overall.",webcam location,conflict
+"Though the multi-language support is lacking in some ways, I can manage with it.",multi-language support,conflict
+"The instruction manual has its flaws, yet I still find it useful.",instruction manual,conflict
+"It's not the best built-in manual I've seen, though it serves its purpose.",built-in manual,conflict
+"The camera placement isn’t very intuitive, but once you get the hang of it, it's okay.",camera placement,conflict
+"The graphics control panel leaves something to be desired, but it functions okay.",graphics control panel,conflict
+"There are better screen coatings out there, but this one suffices.",screen coating,conflict
+"Despite the occasional hiccups with the trackpoint, I'm still satisfied overall.",trackpoint,conflict
+"I struggled with the dock connector early on, but now it seems acceptable.",dock connector,conflict
+"There are better port layouts out there, but this one suffices.",port layout,conflict
+"There are better battery types out there, but this one suffices.",battery type,conflict
+"Functionally, the keycap shape is subpar, though it's not unusable.",keycap shape,conflict
+"The camera placement has its flaws, yet I still find it useful.",camera placement,conflict
+"Functionally, the startup sound is subpar, though it's not unusable.",startup sound,conflict
+"Functionally, the LED indicator is subpar, though it's not unusable.",LED indicator,conflict
+"Not impressed by the keycap shape, but it's passable in daily use.",keycap shape,conflict
+"At times, the screen tilt can be frustrating, but it usually gets the job done.",screen tilt,conflict
+"I wasn't thrilled with the HDMI port, but it works well enough for now.",HDMI port,conflict
+"I struggled with the screen rotation early on, but now it seems acceptable.",screen rotation,conflict
+"Honestly, the battery type isn't great, but it's not a deal breaker either.",battery type,conflict
+"I struggled with the BIOS early on, but now it seems acceptable.",BIOS,conflict
+"It's not the best boot animation I've seen, though it serves its purpose.",boot animation,conflict
+I have mixed feelings about the SD card slot; it's flawed but functional.,SD card slot,conflict
+"The graphics control panel underperforms sometimes, yet it hasn't caused major problems.",graphics control panel,conflict
+"The ethernet port underperforms sometimes, yet it hasn't caused major problems.",ethernet port,conflict
+"The quick start guide underperforms sometimes, yet it hasn't caused major problems.",quick start guide,conflict
+"Functionally, the screen tilt is subpar, though it's not unusable.",screen tilt,conflict
+"It takes effort to get used to the camera placement, but eventually it works out.",camera placement,conflict
+"Functionally, the trackpoint is subpar, though it's not unusable.",trackpoint,conflict
+"Despite the occasional hiccups with the torx screws, I'm still satisfied overall.",torx screws,conflict
+"Despite the occasional hiccups with the caps lock indicator, I'm still satisfied overall.",caps lock indicator,conflict
+"The setup process isn’t very intuitive, but once you get the hang of it, it's okay.",setup process,conflict
+"Honestly, the sleep mode isn't great, but it's not a deal breaker either.",sleep mode,conflict
+"I had issues with the power button at first, but I've gotten used to it.",power button,conflict
+"The input lag wasn’t what I expected, but it ended up being fine.",input lag,conflict
+I have mixed feelings about the laptop lid tension; it's flawed but functional.,laptop lid tension,conflict
+"I struggled with the power brick early on, but now it seems acceptable.",power brick,conflict
+"At times, the boot animation can be frustrating, but it usually gets the job done.",boot animation,conflict
+"It's not the best fan speed I've seen, though it serves its purpose.",fan speed,conflict
+"The case material wasn’t what I expected, but it ended up being fine.",case material,conflict
+"The driver support isn’t very intuitive, but once you get the hang of it, it's okay.",driver support,conflict
+"I had issues with the serial number placement at first, but I've gotten used to it.",serial number placement,conflict
+"I don’t love the ventilation, though I can’t complain much either.",ventilation,conflict
+"Not impressed by the mac address, but it's passable in daily use.",mac address,conflict
+"I had issues with the USB-C port at first, but I've gotten used to it.",USB-C port,conflict
+"It takes effort to get used to the keycap shape, but eventually it works out.",keycap shape,conflict
+"It takes effort to get used to the RAM slot access, but eventually it works out.",RAM slot access,conflict
+"Not impressed by the included software, but it's passable in daily use.",included software,conflict
+"Not impressed by the UEFI settings, but it's passable in daily use.",UEFI settings,conflict
+"The video output feels outdated, but it hasn't really held me back.",video output,conflict
+"I had issues with the startup sound at first, but I've gotten used to it.",startup sound,conflict
+"Despite the occasional hiccups with the external display detection, I'm still satisfied overall.",external display detection,conflict
+"The driver support leaves something to be desired, but it functions okay.",driver support,conflict
+"The power button wasn’t what I expected, but it ended up being fine.",power button,conflict
+"It takes effort to get used to the video output, but eventually it works out.",video output,conflict
+"I don’t love the help menu, though I can’t complain much either.",help menu,conflict
+"The microphone wasn’t what I expected, but it ended up being fine.",microphone,conflict
+"It takes effort to get used to the sleep mode, but eventually it works out.",sleep mode,conflict
+"Though the included software is lacking in some ways, I can manage with it.",included software,conflict
+"The keyboard shortcut guide underperforms sometimes, yet it hasn't caused major problems.",keyboard shortcut guide,conflict
+"Functionally, the torx screws is subpar, though it's not unusable.",torx screws,conflict
+"Honestly, the BIOS key isn't great, but it's not a deal breaker either.",BIOS key,conflict
+"The fan speed wasn’t what I expected, but it ended up being fine.",fan speed,conflict
+"The RAM slot access leaves something to be desired, but it functions okay.",RAM slot access,conflict
+"Functionally, the USB recognition is subpar, though it's not unusable.",USB recognition,conflict
+"The installation guide feels outdated, but it hasn't really held me back.",installation guide,conflict
+"Functionally, the screen border is subpar, though it's not unusable.",screen border,conflict
+"The function keys has its flaws, yet I still find it useful.",function keys,conflict
+"The help menu wasn’t what I expected, but it ended up being fine.",help menu,conflict
+"The screen border underperforms sometimes, yet it hasn't caused major problems.",screen border,conflict
+"I wasn't thrilled with the RAM slot access, but it works well enough for now.",RAM slot access,conflict
+"The logo isn’t very intuitive, but once you get the hang of it, it's okay.",logo,conflict
+"The screen border feels outdated, but it hasn't really held me back.",screen border,conflict
+"Not impressed by the power adapter, but it's passable in daily use.",power adapter,conflict
+"I don’t love the firmware, though I can’t complain much either.",firmware,conflict
+"Not impressed by the trackpoint, but it's passable in daily use.",trackpoint,conflict
+"There are better RAM slot accesss out there, but this one suffices.",RAM slot access,conflict
+"It takes effort to get used to the USB-C port, but eventually it works out.",USB-C port,conflict
+"The screen coating feels outdated, but it hasn't really held me back.",screen coating,conflict
+"The BIOS has its flaws, yet I still find it useful.",BIOS,conflict
+"I had issues with the laptop bottom at first, but I've gotten used to it.",laptop bottom,conflict
+"The brightness setting underperforms sometimes, yet it hasn't caused major problems.",brightness setting,conflict
+"Functionally, the help menu is subpar, though it's not unusable.",help menu,conflict
+"I wasn't thrilled with the startup guide, but it works well enough for now.",startup guide,conflict
+"The fan speed feels outdated, but it hasn't really held me back.",fan speed,conflict
+"The fingerprint setup wasn’t what I expected, but it ended up being fine.",fingerprint setup,conflict
+"I struggled with the build instructions early on, but now it seems acceptable.",build instructions,conflict
+"The trackpoint leaves something to be desired, but it functions okay.",trackpoint,conflict
+"I wasn't thrilled with the dock connector, but it works well enough for now.",dock connector,conflict
+"The language settings wasn’t what I expected, but it ended up being fine.",language settings,conflict
+"There are better help menus out there, but this one suffices.",help menu,conflict
+"There are better restore partitions out there, but this one suffices.",restore partition,conflict
+"Not impressed by the fingerprint setup, but it's passable in daily use.",fingerprint setup,conflict
+"The built-in manual isn’t very intuitive, but once you get the hang of it, it's okay.",built-in manual,conflict
+I have mixed feelings about the built-in manual; it's flawed but functional.,built-in manual,conflict
+"The trackpoint underperforms sometimes, yet it hasn't caused major problems.",trackpoint,conflict
+"I don’t love the keycap shape, though I can’t complain much either.",keycap shape,conflict
+"The startup guide leaves something to be desired, but it functions okay.",startup guide,conflict
+"I don’t love the BIOS key, though I can’t complain much either.",BIOS key,conflict
+"Honestly, the default wallpaper isn't great, but it's not a deal breaker either.",default wallpaper,conflict
+"I don’t love the USB speed, though I can’t complain much either.",USB speed,conflict
+"The timezone configuration has its flaws, yet I still find it useful.",timezone configuration,conflict
+"It's not the best multi-language support I've seen, though it serves its purpose.",multi-language support,conflict
+"It takes effort to get used to the trackpoint, but eventually it works out.",trackpoint,conflict
+"Though the power cable is lacking in some ways, I can manage with it.",power cable,conflict
+I have mixed feelings about the cable length; it's flawed but functional.,cable length,conflict
+"I wasn't thrilled with the BIOS, but it works well enough for now.",BIOS,conflict
+"The fan speed leaves something to be desired, but it functions okay.",fan speed,conflict
+"I wasn't thrilled with the power cable, but it works well enough for now.",power cable,conflict
+"It's not the best battery type I've seen, though it serves its purpose.",battery type,conflict
+"I don’t love the quick start guide, though I can’t complain much either.",quick start guide,conflict
+"At times, the wireless toggle can be frustrating, but it usually gets the job done.",wireless toggle,conflict
+"I struggled with the LED indicator early on, but now it seems acceptable.",LED indicator,conflict
+"The SD card slot feels outdated, but it hasn't really held me back.",SD card slot,conflict
+"The multi-language support wasn’t what I expected, but it ended up being fine.",multi-language support,conflict
+"Though the brightness setting is lacking in some ways, I can manage with it.",brightness setting,conflict
+"At times, the restore partition can be frustrating, but it usually gets the job done.",restore partition,conflict
+"I don’t love the charging LED, though I can’t complain much either.",charging LED,conflict
+"Honestly, the build instructions isn't great, but it's not a deal breaker either.",build instructions,conflict
+"The default browser underperforms sometimes, yet it hasn't caused major problems.",default browser,conflict
+"The touchscreen isn’t very intuitive, but once you get the hang of it, it's okay.",touchscreen,conflict
+"The packaging isn’t very intuitive, but once you get the hang of it, it's okay.",packaging,conflict
+"I struggled with the laptop bottom early on, but now it seems acceptable.",laptop bottom,conflict
+"The external display detection isn’t very intuitive, but once you get the hang of it, it's okay.",external display detection,conflict
+"The hard drive noise has its flaws, yet I still find it useful.",hard drive noise,conflict
+"I had issues with the RAM slot access at first, but I've gotten used to it.",RAM slot access,conflict
+"I struggled with the included software early on, but now it seems acceptable.",included software,conflict
+"Functionally, the bluetooth is subpar, though it's not unusable.",bluetooth,conflict
+"The dock support has its flaws, yet I still find it useful.",dock support,conflict
+"The port layout has its flaws, yet I still find it useful.",port layout,conflict
+"The restore partition leaves something to be desired, but it functions okay.",restore partition,conflict
+"The lock slot has its flaws, yet I still find it useful.",lock slot,conflict
+"I had issues with the quick start guide at first, but I've gotten used to it.",quick start guide,conflict
+"The dock support isn’t very intuitive, but once you get the hang of it, it's okay.",dock support,conflict
+"It takes effort to get used to the dock connector, but eventually it works out.",dock connector,conflict
+I have mixed feelings about the dock connector; it's flawed but functional.,dock connector,conflict
+"Honestly, the brightness setting isn't great, but it's not a deal breaker either.",brightness setting,conflict
+"The driver CD underperforms sometimes, yet it hasn't caused major problems.",driver CD,conflict
+"At times, the touchscreen can be frustrating, but it usually gets the job done.",touchscreen,conflict
+"I had issues with the torx screws at first, but I've gotten used to it.",torx screws,conflict
+"At times, the instruction manual can be frustrating, but it usually gets the job done.",instruction manual,conflict
+"Functionally, the system fonts is subpar, though it's not unusable.",system fonts,conflict
+"Though the cable length is lacking in some ways, I can manage with it.",cable length,conflict
+"It takes effort to get used to the preloaded wallpaper, but eventually it works out.",preloaded wallpaper,conflict
+"At times, the battery cover can be frustrating, but it usually gets the job done.",battery cover,conflict
+"The packaging feels outdated, but it hasn't really held me back.",packaging,conflict
+"I had issues with the webcam shutter at first, but I've gotten used to it.",webcam shutter,conflict
+I have mixed feelings about the default OS; it's flawed but functional.,default OS,conflict
+"Not impressed by the video output, but it's passable in daily use.",video output,conflict
+"I had issues with the charging LED at first, but I've gotten used to it.",charging LED,conflict
+"I wasn't thrilled with the keyboard layout, but it works well enough for now.",keyboard layout,conflict
+"I struggled with the lock slot early on, but now it seems acceptable.",lock slot,conflict
+"The keyboard font wasn’t what I expected, but it ended up being fine.",keyboard font,conflict
+I have mixed feelings about the caps lock indicator; it's flawed but functional.,caps lock indicator,conflict
+"At times, the charging port location can be frustrating, but it usually gets the job done.",charging port location,conflict
+"Functionally, the port layout is subpar, though it's not unusable.",port layout,conflict
+"I struggled with the torx screws early on, but now it seems acceptable.",torx screws,conflict
+"Honestly, the installation guide isn't great, but it's not a deal breaker either.",installation guide,conflict
+"The restore partition has its flaws, yet I still find it useful.",restore partition,conflict
+"I wasn't thrilled with the screen saver, but it works well enough for now.",screen saver,conflict
+"Honestly, the screen coating isn't great, but it's not a deal breaker either.",screen coating,conflict
+"Not impressed by the SD card slot, but it's passable in daily use.",SD card slot,conflict
+"The screen saver underperforms sometimes, yet it hasn't caused major problems.",screen saver,conflict
+"Functionally, the case material is subpar, though it's not unusable.",case material,conflict
+"The charging port location wasn’t what I expected, but it ended up being fine.",charging port location,conflict

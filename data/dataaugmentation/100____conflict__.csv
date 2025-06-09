@@ -1,0 +1,101 @@
+sentence,aspect,sentiment polarity
+"The dock support quality is low, yet it hasn’t affected my usage much.",dock support,conflict
+"It lacks a proper torx screws, though it hasn't caused real problems.",torx screws,conflict
+"The setup process could be better, but I'm satisfied given the price.",setup process,conflict
+"ventilation could be improved, but it performs acceptably most of the time.",ventilation,conflict
+"It lacks a proper wireless toggle, though it hasn't caused real problems.",wireless toggle,conflict
+"build instructions is frustrating sometimes, but overall manageable.",build instructions,conflict
+"I was disappointed by the charging LED at first, but it grew on me.",charging LED,conflict
+"I was disappointed by the fan speed at first, but it grew on me.",fan speed,conflict
+"The screen tilt could be better, but I'm satisfied given the price.",screen tilt,conflict
+"I was disappointed by the screen rotation at first, but it grew on me.",screen rotation,conflict
+"The logo is quite weak, but surprisingly effective in certain scenarios.",logo,conflict
+"The ventilation could be better, but I'm satisfied given the price.",ventilation,conflict
+"The startup guide isn't the best, but it gets the job done.",startup guide,conflict
+"The startup guide is quite weak, but surprisingly effective in certain scenarios.",startup guide,conflict
+"The wireless toggle could be better, but I'm satisfied given the price.",wireless toggle,conflict
+"The plastic smell could be better, but I'm satisfied given the price.",plastic smell,conflict
+"lock slot could be improved, but it performs acceptably most of the time.",lock slot,conflict
+"The serial number placement could be better, but I'm satisfied given the price.",serial number placement,conflict
+"The cable length quality is low, yet it hasn’t affected my usage much.",cable length,conflict
+"I was disappointed by the mac address at first, but it grew on me.",mac address,conflict
+"The fingerprint setup isn't the best, but it gets the job done.",fingerprint setup,conflict
+"While the RAM slot access doesn't meet expectations, it still works when needed.",RAM slot access,conflict
+"The RAM slot access could be better, but I'm satisfied given the price.",RAM slot access,conflict
+"battery cover could be improved, but it performs acceptably most of the time.",battery cover,conflict
+"battery type could be improved, but it performs acceptably most of the time.",battery type,conflict
+"screen saver is frustrating sometimes, but overall manageable.",screen saver,conflict
+"The screen border isn't the best, but it gets the job done.",screen border,conflict
+"lock slot could be improved, but it performs acceptably most of the time.",lock slot,conflict
+"The trackpoint is quite weak, but surprisingly effective in certain scenarios.",trackpoint,conflict
+"No audio driver, but I managed fine without it.",audio driver,conflict
+"While the caps lock indicator doesn't meet expectations, it still works when needed.",caps lock indicator,conflict
+"It lacks a proper power button, though it hasn't caused real problems.",power button,conflict
+"It lacks a proper plastic smell, though it hasn't caused real problems.",plastic smell,conflict
+"I was disappointed by the caps lock indicator at first, but it grew on me.",caps lock indicator,conflict
+"While the BIOS doesn't meet expectations, it still works when needed.",BIOS,conflict
+"reset pinhole could be improved, but it performs acceptably most of the time.",reset pinhole,conflict
+"The laptop bottom isn't the best, but it gets the job done.",laptop bottom,conflict
+"The language pack isn't the best, but it gets the job done.",language pack,conflict
+"The hard drive noise is quite weak, but surprisingly effective in certain scenarios.",hard drive noise,conflict
+"restore partition could be improved, but it performs acceptably most of the time.",restore partition,conflict
+"The firmware isn't the best, but it gets the job done.",firmware,conflict
+"The HDMI port is quite weak, but surprisingly effective in certain scenarios.",HDMI port,conflict
+"The touchpad texture quality is low, yet it hasn’t affected my usage much.",touchpad texture,conflict
+"While the preloaded wallpaper doesn't meet expectations, it still works when needed.",preloaded wallpaper,conflict
+"The language settings isn't the best, but it gets the job done.",language settings,conflict
+"The brightness setting is quite weak, but surprisingly effective in certain scenarios.",brightness setting,conflict
+"The fan speed is quite weak, but surprisingly effective in certain scenarios.",fan speed,conflict
+"The torx screws isn't the best, but it gets the job done.",torx screws,conflict
+"No USB speed, but I managed fine without it.",USB speed,conflict
+"The hinge mechanism is quite weak, but surprisingly effective in certain scenarios.",hinge mechanism,conflict
+"I was disappointed by the BIOS at first, but it grew on me.",BIOS,conflict
+"I was disappointed by the power cable at first, but it grew on me.",power cable,conflict
+"The setup process is quite weak, but surprisingly effective in certain scenarios.",setup process,conflict
+"The BIOS key isn't the best, but it gets the job done.",BIOS key,conflict
+"The UEFI settings could be better, but I'm satisfied given the price.",UEFI settings,conflict
+"The help menu quality is low, yet it hasn’t affected my usage much.",help menu,conflict
+"The charging LED quality is low, yet it hasn’t affected my usage much.",charging LED,conflict
+"lock slot could be improved, but it performs acceptably most of the time.",lock slot,conflict
+"The hinge mechanism could be better, but I'm satisfied given the price.",hinge mechanism,conflict
+"While the trackpoint doesn't meet expectations, it still works when needed.",trackpoint,conflict
+"It lacks a proper serial number placement, though it hasn't caused real problems.",serial number placement,conflict
+"The fingerprint setup isn't the best, but it gets the job done.",fingerprint setup,conflict
+"The mac address is quite weak, but surprisingly effective in certain scenarios.",mac address,conflict
+"The charging port location isn't the best, but it gets the job done.",charging port location,conflict
+"warranty is frustrating sometimes, but overall manageable.",warranty,conflict
+"keyboard shortcut guide is frustrating sometimes, but overall manageable.",keyboard shortcut guide,conflict
+"While the reset pinhole doesn't meet expectations, it still works when needed.",reset pinhole,conflict
+"I was disappointed by the battery cover at first, but it grew on me.",battery cover,conflict
+"No trackpoint, but I managed fine without it.",trackpoint,conflict
+"It lacks a proper restore partition, though it hasn't caused real problems.",restore partition,conflict
+"The external display detection is quite weak, but surprisingly effective in certain scenarios.",external display detection,conflict
+"I was disappointed by the keycap shape at first, but it grew on me.",keycap shape,conflict
+"No reset pinhole, but I managed fine without it.",reset pinhole,conflict
+"plastic smell is frustrating sometimes, but overall manageable.",plastic smell,conflict
+"While the hard drive noise doesn't meet expectations, it still works when needed.",hard drive noise,conflict
+"No packaging, but I managed fine without it.",packaging,conflict
+"fingerprint setup is frustrating sometimes, but overall manageable.",fingerprint setup,conflict
+"The noise level could be better, but I'm satisfied given the price.",noise level,conflict
+"dock support is frustrating sometimes, but overall manageable.",dock support,conflict
+"No microphone, but I managed fine without it.",microphone,conflict
+"The HDMI port is quite weak, but surprisingly effective in certain scenarios.",HDMI port,conflict
+"graphics control panel is frustrating sometimes, but overall manageable.",graphics control panel,conflict
+"No built-in manual, but I managed fine without it.",built-in manual,conflict
+"No cable length, but I managed fine without it.",cable length,conflict
+"I was disappointed by the fingerprint setup at first, but it grew on me.",fingerprint setup,conflict
+"The bluetooth is quite weak, but surprisingly effective in certain scenarios.",bluetooth,conflict
+"The laptop bottom isn't the best, but it gets the job done.",laptop bottom,conflict
+"The camera placement quality is low, yet it hasn’t affected my usage much.",camera placement,conflict
+"The help menu quality is low, yet it hasn’t affected my usage much.",help menu,conflict
+"The hinge mechanism could be better, but I'm satisfied given the price.",hinge mechanism,conflict
+"No keyboard shortcut guide, but I managed fine without it.",keyboard shortcut guide,conflict
+"The pre-installed apps could be better, but I'm satisfied given the price.",pre-installed apps,conflict
+"The default browser quality is low, yet it hasn’t affected my usage much.",default browser,conflict
+"The port layout could be better, but I'm satisfied given the price.",port layout,conflict
+"No power adapter, but I managed fine without it.",power adapter,conflict
+"The system fonts isn't the best, but it gets the job done.",system fonts,conflict
+"The preloaded wallpaper isn't the best, but it gets the job done.",preloaded wallpaper,conflict
+"I was disappointed by the serial number placement at first, but it grew on me.",serial number placement,conflict
+"The pre-installed apps quality is low, yet it hasn’t affected my usage much.",pre-installed apps,conflict
+"The logo could be better, but I'm satisfied given the price.",logo,conflict

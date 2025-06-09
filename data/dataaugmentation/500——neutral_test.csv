@@ -1,0 +1,501 @@
+text,aspect,sentiment polarity
+"I noticed the login items during setup, but didn’t pay much attention.",login items,neutral
+"I noticed the login screen during setup, but didn’t pay much attention.",login screen,neutral
+"The laptop features a air vent, though I haven't explored it fully.",air vent,neutral
+"I saw the keyboard layout option, but skipped it during configuration.",keyboard layout,neutral
+"I believe it has a microphone jack, though I haven’t confirmed that myself.",microphone jack,neutral
+"My setup includes a external monitor, though I don’t rely on it.",external monitor,neutral
+"My setup includes a power brick, though I don’t rely on it.",power brick,neutral
+I haven't interacted with the Thunderbolt port since setting it up.,Thunderbolt port,neutral
+"Not sure how often I’ll use the camera shutter, but it’s there.",camera shutter,neutral
+"My setup includes a RAM, though I don’t rely on it.",RAM,neutral
+"The VGA port is included in the package, but I haven’t used it so far.",VGA port,neutral
+"The light sensor is included in the package, but I haven’t used it so far.",light sensor,neutral
+"There’s a system report on the side, but I rarely interact with it.",system report,neutral
+"There’s a keyboard backlight on the side, but I rarely interact with it.",keyboard backlight,neutral
+"I noticed the external monitor during setup, but didn’t pay much attention.",external monitor,neutral
+I just installed the fingerprint reader but haven’t really explored its use yet.,fingerprint reader,neutral
+The presence of dual boot option was noted but hasn’t been relevant yet.,dual boot option,neutral
+I haven't interacted with the login screen since setting it up.,login screen,neutral
+"I noticed the file system during setup, but didn’t pay much attention.",file system,neutral
+"I saw the disk utility option, but skipped it during configuration.",disk utility,neutral
+"The volume control is functional, but I haven't really had a need for it.",volume control,neutral
+"The air vent is included in the package, but I haven’t used it so far.",air vent,neutral
+"My setup includes a USB 3.0 port, though I don’t rely on it.",USB 3.0 port,neutral
+"I connected the dual boot option once just to check, and it worked fine.",dual boot option,neutral
+"I'm aware of the air vent, but it hasn't impacted my experience either way.",air vent,neutral
+"I believe it has a file system, though I haven’t confirmed that myself.",file system,neutral
+"The laptop features a HDMI port, though I haven't explored it fully.",HDMI port,neutral
+"The device comes with a built-in login items, but I haven’t tested it.",login items,neutral
+"It came with a keyboard backlight, which I left untouched.",keyboard backlight,neutral
+"Not sure how often I’ll use the SIM card tray, but it’s there.",SIM card tray,neutral
+"Still learning how to make use of the USB-C connector, but nothing special yet.",USB-C connector,neutral
+"I believe it has a fan control, though I haven’t confirmed that myself.",fan control,neutral
+So far I haven’t had to use the trackpad gestures.,trackpad gestures,neutral
+"I believe it has a recovery partition, though I haven’t confirmed that myself.",recovery partition,neutral
+"The Ethernet port is included in the package, but I haven’t used it so far.",Ethernet port,neutral
+"I saw the retina display option, but skipped it during configuration.",retina display,neutral
+"My setup includes a HDMI port, though I don’t rely on it.",HDMI port,neutral
+"Still learning how to make use of the screen resolution, but nothing special yet.",screen resolution,neutral
+"The laptop features a HDMI port, though I haven't explored it fully.",HDMI port,neutral
+So far I haven’t had to use the dual boot option.,dual boot option,neutral
+The presence of voice assistant was noted but hasn’t been relevant yet.,voice assistant,neutral
+The presence of time machine was noted but hasn’t been relevant yet.,time machine,neutral
+"I'm aware of the migration assistant, but it hasn't impacted my experience either way.",migration assistant,neutral
+"My setup includes a webcam, though I don’t rely on it.",webcam,neutral
+"I connected the system report once just to check, and it worked fine.",system report,neutral
+I haven't interacted with the air vent since setting it up.,air vent,neutral
+"I believe it has a login items, though I haven’t confirmed that myself.",login items,neutral
+I just installed the webcam but haven’t really explored its use yet.,webcam,neutral
+"There’s a mission control on the side, but I rarely interact with it.",mission control,neutral
+I just installed the speaker grille but haven’t really explored its use yet.,speaker grille,neutral
+I just installed the camera shutter but haven’t really explored its use yet.,camera shutter,neutral
+"I believe it has a microphone jack, though I haven’t confirmed that myself.",microphone jack,neutral
+"There’s a power brick on the side, but I rarely interact with it.",power brick,neutral
+"This model supports light sensor, although I haven't found a reason to try it.",light sensor,neutral
+"I connected the IR sensor once just to check, and it worked fine.",IR sensor,neutral
+"The device comes with a built-in energy saver mode, but I haven’t tested it.",energy saver mode,neutral
+I haven’t figured out what the keyboard layout does yet.,keyboard layout,neutral
+"There’s a touch ID on the side, but I rarely interact with it.",touch ID,neutral
+"It came with a external monitor, which I left untouched.",external monitor,neutral
+I haven’t figured out what the Thunderbolt port does yet.,Thunderbolt port,neutral
+"I noticed the screen mirroring during setup, but didn’t pay much attention.",screen mirroring,neutral
+So far I haven’t had to use the light sensor.,light sensor,neutral
+"The air vent is part of the hardware, but I don’t actively use it.",air vent,neutral
+I haven’t figured out what the external monitor does yet.,external monitor,neutral
+I just installed the VGA port but haven’t really explored its use yet.,VGA port,neutral
+"I connected the language settings once just to check, and it worked fine.",language settings,neutral
+"Not sure how often I’ll use the macOS dock, but it’s there.",macOS dock,neutral
+"The laptop features a time machine, though I haven't explored it fully.",time machine,neutral
+"Still learning how to make use of the touch ID, but nothing special yet.",touch ID,neutral
+"I saw the macOS dock option, but skipped it during configuration.",macOS dock,neutral
+"I noticed the USB 3.0 port during setup, but didn’t pay much attention.",USB 3.0 port,neutral
+"The device comes with a built-in BIOS, but I haven’t tested it.",BIOS,neutral
+So far I haven’t had to use the trackpad gestures.,trackpad gestures,neutral
+"My setup includes a mission control, though I don’t rely on it.",mission control,neutral
+The presence of fan control was noted but hasn’t been relevant yet.,fan control,neutral
+"This model supports microphone jack, although I haven't found a reason to try it.",microphone jack,neutral
+"It came with a speaker grille, which I left untouched.",speaker grille,neutral
+"I noticed the migration assistant during setup, but didn’t pay much attention.",migration assistant,neutral
+I haven’t figured out what the mission control does yet.,mission control,neutral
+The presence of pre-installed apps was noted but hasn’t been relevant yet.,pre-installed apps,neutral
+"Still learning how to make use of the language settings, but nothing special yet.",language settings,neutral
+"The device comes with a built-in volume control, but I haven’t tested it.",volume control,neutral
+"The USB-C connector is included in the package, but I haven’t used it so far.",USB-C connector,neutral
+"The device comes with a built-in USB-C connector, but I haven’t tested it.",USB-C connector,neutral
+So far I haven’t had to use the startup chime.,startup chime,neutral
+"Still learning how to make use of the mission control, but nothing special yet.",mission control,neutral
+"The speaker grille is functional, but I haven't really had a need for it.",speaker grille,neutral
+So far I haven’t had to use the system report.,system report,neutral
+"The camera shutter is functional, but I haven't really had a need for it.",camera shutter,neutral
+So far I haven’t had to use the SSD.,SSD,neutral
+"There’s a Thunderbolt port on the side, but I rarely interact with it.",Thunderbolt port,neutral
+"I noticed the webcam during setup, but didn’t pay much attention.",webcam,neutral
+"My setup includes a fingerprint reader, though I don’t rely on it.",fingerprint reader,neutral
+I haven't interacted with the SIM card tray since setting it up.,SIM card tray,neutral
+The presence of power brick was noted but hasn’t been relevant yet.,power brick,neutral
+I haven't interacted with the macOS dock since setting it up.,macOS dock,neutral
+The presence of network diagnostics was noted but hasn’t been relevant yet.,network diagnostics,neutral
+"There’s a SIM card tray on the side, but I rarely interact with it.",SIM card tray,neutral
+"There’s a webcam on the side, but I rarely interact with it.",webcam,neutral
+"The laptop features a webcam, though I haven't explored it fully.",webcam,neutral
+"The laptop features a disk utility, though I haven't explored it fully.",disk utility,neutral
+"This model supports USB-C connector, although I haven't found a reason to try it.",USB-C connector,neutral
+"The device comes with a built-in camera shutter, but I haven’t tested it.",camera shutter,neutral
+"Still learning how to make use of the camera shutter, but nothing special yet.",camera shutter,neutral
+"The volume control is included in the package, but I haven’t used it so far.",volume control,neutral
+"I saw the system preferences option, but skipped it during configuration.",system preferences,neutral
+So far I haven’t had to use the air vent.,air vent,neutral
+"I noticed the VGA port during setup, but didn’t pay much attention.",VGA port,neutral
+"The laptop features a speaker grille, though I haven't explored it fully.",speaker grille,neutral
+"There’s a startup chime on the side, but I rarely interact with it.",startup chime,neutral
+"I'm aware of the migration assistant, but it hasn't impacted my experience either way.",migration assistant,neutral
+"The power brick is included in the package, but I haven’t used it so far.",power brick,neutral
+I just installed the network diagnostics but haven’t really explored its use yet.,network diagnostics,neutral
+"I noticed the screen resolution during setup, but didn’t pay much attention.",screen resolution,neutral
+I haven’t figured out what the time machine does yet.,time machine,neutral
+"It came with a VGA port, which I left untouched.",VGA port,neutral
+"My setup includes a file system, though I don’t rely on it.",file system,neutral
+"Not sure how often I’ll use the air vent, but it’s there.",air vent,neutral
+I just installed the activity monitor but haven’t really explored its use yet.,activity monitor,neutral
+"My setup includes a disk utility, though I don’t rely on it.",disk utility,neutral
+So far I haven’t had to use the system report.,system report,neutral
+I haven’t figured out what the trackpad gestures does yet.,trackpad gestures,neutral
+So far I haven’t had to use the screen mirroring.,screen mirroring,neutral
+"It came with a dual boot option, which I left untouched.",dual boot option,neutral
+"I'm aware of the voice assistant, but it hasn't impacted my experience either way.",voice assistant,neutral
+"I believe it has a speaker grille, though I haven’t confirmed that myself.",speaker grille,neutral
+The presence of fan control was noted but hasn’t been relevant yet.,fan control,neutral
+"I saw the touch ID option, but skipped it during configuration.",touch ID,neutral
+"The login items is functional, but I haven't really had a need for it.",login items,neutral
+"The laptop features a login items, though I haven't explored it fully.",login items,neutral
+"I connected the pre-installed apps once just to check, and it worked fine.",pre-installed apps,neutral
+"I noticed the login items during setup, but didn’t pay much attention.",login items,neutral
+I just installed the system preferences but haven’t really explored its use yet.,system preferences,neutral
+"It came with a activity monitor, which I left untouched.",activity monitor,neutral
+"I'm aware of the external monitor, but it hasn't impacted my experience either way.",external monitor,neutral
+"It came with a volume control, which I left untouched.",volume control,neutral
+"The Thunderbolt port is part of the hardware, but I don’t actively use it.",Thunderbolt port,neutral
+The presence of system preferences was noted but hasn’t been relevant yet.,system preferences,neutral
+"The network diagnostics is part of the hardware, but I don’t actively use it.",network diagnostics,neutral
+The presence of speaker grille was noted but hasn’t been relevant yet.,speaker grille,neutral
+I just installed the Thunderbolt port but haven’t really explored its use yet.,Thunderbolt port,neutral
+The presence of system report was noted but hasn’t been relevant yet.,system report,neutral
+"I believe it has a screen mirroring, though I haven’t confirmed that myself.",screen mirroring,neutral
+The presence of file system was noted but hasn’t been relevant yet.,file system,neutral
+"The recovery partition is functional, but I haven't really had a need for it.",recovery partition,neutral
+"There’s a login items on the side, but I rarely interact with it.",login items,neutral
+"The laptop features a screen mirroring, though I haven't explored it fully.",screen mirroring,neutral
+"The voice assistant is part of the hardware, but I don’t actively use it.",voice assistant,neutral
+"I'm aware of the RAM, but it hasn't impacted my experience either way.",RAM,neutral
+"I believe it has a Ethernet port, though I haven’t confirmed that myself.",Ethernet port,neutral
+"I believe it has a login items, though I haven’t confirmed that myself.",login items,neutral
+The presence of screen resolution was noted but hasn’t been relevant yet.,screen resolution,neutral
+"Not sure how often I’ll use the retina display, but it’s there.",retina display,neutral
+"Not sure how often I’ll use the screen mirroring, but it’s there.",screen mirroring,neutral
+"It came with a volume control, which I left untouched.",volume control,neutral
+"The SIM card tray is included in the package, but I haven’t used it so far.",SIM card tray,neutral
+"I saw the fingerprint reader option, but skipped it during configuration.",fingerprint reader,neutral
+"Not sure how often I’ll use the language settings, but it’s there.",language settings,neutral
+"I connected the voice assistant once just to check, and it worked fine.",voice assistant,neutral
+"I'm aware of the BIOS, but it hasn't impacted my experience either way.",BIOS,neutral
+"I'm aware of the USB 3.0 port, but it hasn't impacted my experience either way.",USB 3.0 port,neutral
+"It came with a external monitor, which I left untouched.",external monitor,neutral
+"The RAM is part of the hardware, but I don’t actively use it.",RAM,neutral
+"My setup includes a screen mirroring, though I don’t rely on it.",screen mirroring,neutral
+"There’s a webcam on the side, but I rarely interact with it.",webcam,neutral
+"The macOS dock is functional, but I haven't really had a need for it.",macOS dock,neutral
+"I connected the SIM card tray once just to check, and it worked fine.",SIM card tray,neutral
+"I saw the activity monitor option, but skipped it during configuration.",activity monitor,neutral
+"The laptop features a retina display, though I haven't explored it fully.",retina display,neutral
+"The language settings is functional, but I haven't really had a need for it.",language settings,neutral
+"This model supports login screen, although I haven't found a reason to try it.",login screen,neutral
+"The macOS dock is part of the hardware, but I don’t actively use it.",macOS dock,neutral
+"I saw the SD card slot option, but skipped it during configuration.",SD card slot,neutral
+"Not sure how often I’ll use the migration assistant, but it’s there.",migration assistant,neutral
+I haven't interacted with the startup chime since setting it up.,startup chime,neutral
+"I noticed the system report during setup, but didn’t pay much attention.",system report,neutral
+"The migration assistant is part of the hardware, but I don’t actively use it.",migration assistant,neutral
+"The volume control is functional, but I haven't really had a need for it.",volume control,neutral
+"Still learning how to make use of the BIOS, but nothing special yet.",BIOS,neutral
+"I believe it has a camera shutter, though I haven’t confirmed that myself.",camera shutter,neutral
+"The webcam is functional, but I haven't really had a need for it.",webcam,neutral
+I haven’t figured out what the keyboard layout does yet.,keyboard layout,neutral
+"It came with a SSD, which I left untouched.",SSD,neutral
+"The power brick is functional, but I haven't really had a need for it.",power brick,neutral
+"I'm aware of the webcam, but it hasn't impacted my experience either way.",webcam,neutral
+"This model supports keyboard backlight, although I haven't found a reason to try it.",keyboard backlight,neutral
+I just installed the mission control but haven’t really explored its use yet.,mission control,neutral
+I haven’t figured out what the energy saver mode does yet.,energy saver mode,neutral
+"I'm aware of the dual boot option, but it hasn't impacted my experience either way.",dual boot option,neutral
+"Not sure how often I’ll use the Bluetooth, but it’s there.",Bluetooth,neutral
+"The device comes with a built-in volume control, but I haven’t tested it.",volume control,neutral
+"It came with a camera shutter, which I left untouched.",camera shutter,neutral
+I haven’t figured out what the retina display does yet.,retina display,neutral
+"There’s a fingerprint reader on the side, but I rarely interact with it.",fingerprint reader,neutral
+"I saw the macOS dock option, but skipped it during configuration.",macOS dock,neutral
+I haven't interacted with the keyboard backlight since setting it up.,keyboard backlight,neutral
+So far I haven’t had to use the power brick.,power brick,neutral
+"I believe it has a Thunderbolt port, though I haven’t confirmed that myself.",Thunderbolt port,neutral
+"The time machine is included in the package, but I haven’t used it so far.",time machine,neutral
+The presence of energy saver mode was noted but hasn’t been relevant yet.,energy saver mode,neutral
+"I believe it has a fingerprint reader, though I haven’t confirmed that myself.",fingerprint reader,neutral
+"Not sure how often I’ll use the keyboard layout, but it’s there.",keyboard layout,neutral
+"My setup includes a external monitor, though I don’t rely on it.",external monitor,neutral
+"The fingerprint reader is functional, but I haven't really had a need for it.",fingerprint reader,neutral
+"The microphone jack is part of the hardware, but I don’t actively use it.",microphone jack,neutral
+"The laptop features a macOS dock, though I haven't explored it fully.",macOS dock,neutral
+"The recovery partition is functional, but I haven't really had a need for it.",recovery partition,neutral
+"The device comes with a built-in recovery partition, but I haven’t tested it.",recovery partition,neutral
+"The language settings is functional, but I haven't really had a need for it.",language settings,neutral
+"I'm aware of the system report, but it hasn't impacted my experience either way.",system report,neutral
+I haven’t figured out what the dual boot option does yet.,dual boot option,neutral
+I haven’t figured out what the VGA port does yet.,VGA port,neutral
+"The migration assistant is part of the hardware, but I don’t actively use it.",migration assistant,neutral
+I just installed the pre-installed apps but haven’t really explored its use yet.,pre-installed apps,neutral
+"The device comes with a built-in SD card slot, but I haven’t tested it.",SD card slot,neutral
+"I saw the volume control option, but skipped it during configuration.",volume control,neutral
+"It came with a pre-installed apps, which I left untouched.",pre-installed apps,neutral
+I haven’t figured out what the IR sensor does yet.,IR sensor,neutral
+"There’s a keyboard layout on the side, but I rarely interact with it.",keyboard layout,neutral
+"I'm aware of the USB-C connector, but it hasn't impacted my experience either way.",USB-C connector,neutral
+"It came with a webcam, which I left untouched.",webcam,neutral
+"It came with a volume control, which I left untouched.",volume control,neutral
+"The screen resolution is part of the hardware, but I don’t actively use it.",screen resolution,neutral
+The presence of energy saver mode was noted but hasn’t been relevant yet.,energy saver mode,neutral
+"I believe it has a touch ID, though I haven’t confirmed that myself.",touch ID,neutral
+"The mission control is part of the hardware, but I don’t actively use it.",mission control,neutral
+So far I haven’t had to use the speaker grille.,speaker grille,neutral
+"Still learning how to make use of the macOS dock, but nothing special yet.",macOS dock,neutral
+"The activity monitor is functional, but I haven't really had a need for it.",activity monitor,neutral
+I just installed the SD card slot but haven’t really explored its use yet.,SD card slot,neutral
+"I saw the voice assistant option, but skipped it during configuration.",voice assistant,neutral
+"The login items is included in the package, but I haven’t used it so far.",login items,neutral
+"I noticed the retina display during setup, but didn’t pay much attention.",retina display,neutral
+"I connected the time machine once just to check, and it worked fine.",time machine,neutral
+The presence of USB-C connector was noted but hasn’t been relevant yet.,USB-C connector,neutral
+"My setup includes a energy saver mode, though I don’t rely on it.",energy saver mode,neutral
+"I'm aware of the time machine, but it hasn't impacted my experience either way.",time machine,neutral
+"I saw the Thunderbolt port option, but skipped it during configuration.",Thunderbolt port,neutral
+"Not sure how often I’ll use the air vent, but it’s there.",air vent,neutral
+I haven't interacted with the network diagnostics since setting it up.,network diagnostics,neutral
+"I believe it has a network diagnostics, though I haven’t confirmed that myself.",network diagnostics,neutral
+"I'm aware of the startup chime, but it hasn't impacted my experience either way.",startup chime,neutral
+"The device comes with a built-in mission control, but I haven’t tested it.",mission control,neutral
+"The device comes with a built-in login items, but I haven’t tested it.",login items,neutral
+"There’s a screen resolution on the side, but I rarely interact with it.",screen resolution,neutral
+"I connected the disk utility once just to check, and it worked fine.",disk utility,neutral
+"I connected the SSD once just to check, and it worked fine.",SSD,neutral
+I haven’t figured out what the RAM does yet.,RAM,neutral
+"The Ethernet port is included in the package, but I haven’t used it so far.",Ethernet port,neutral
+"Not sure how often I’ll use the light sensor, but it’s there.",light sensor,neutral
+"The laptop features a IR sensor, though I haven't explored it fully.",IR sensor,neutral
+The presence of USB-C connector was noted but hasn’t been relevant yet.,USB-C connector,neutral
+"The device comes with a built-in Bluetooth, but I haven’t tested it.",Bluetooth,neutral
+I just installed the fingerprint reader but haven’t really explored its use yet.,fingerprint reader,neutral
+"My setup includes a activity monitor, though I don’t rely on it.",activity monitor,neutral
+"Not sure how often I’ll use the webcam, but it’s there.",webcam,neutral
+"I saw the disk utility option, but skipped it during configuration.",disk utility,neutral
+The presence of HDMI port was noted but hasn’t been relevant yet.,HDMI port,neutral
+"I noticed the login items during setup, but didn’t pay much attention.",login items,neutral
+"It came with a BIOS, which I left untouched.",BIOS,neutral
+I haven't interacted with the system report since setting it up.,system report,neutral
+"The device comes with a built-in keyboard backlight, but I haven’t tested it.",keyboard backlight,neutral
+"This model supports voice assistant, although I haven't found a reason to try it.",voice assistant,neutral
+I haven’t figured out what the recovery partition does yet.,recovery partition,neutral
+"The laptop features a SSD, though I haven't explored it fully.",SSD,neutral
+"The recovery partition is functional, but I haven't really had a need for it.",recovery partition,neutral
+"The power brick is included in the package, but I haven’t used it so far.",power brick,neutral
+"The macOS dock is included in the package, but I haven’t used it so far.",macOS dock,neutral
+"This model supports Ethernet port, although I haven't found a reason to try it.",Ethernet port,neutral
+"It came with a touch ID, which I left untouched.",touch ID,neutral
+"Still learning how to make use of the camera shutter, but nothing special yet.",camera shutter,neutral
+"There’s a migration assistant on the side, but I rarely interact with it.",migration assistant,neutral
+"The device comes with a built-in time machine, but I haven’t tested it.",time machine,neutral
+"I noticed the SSD during setup, but didn’t pay much attention.",SSD,neutral
+So far I haven’t had to use the fan control.,fan control,neutral
+"I noticed the SD card slot during setup, but didn’t pay much attention.",SD card slot,neutral
+"Still learning how to make use of the fingerprint reader, but nothing special yet.",fingerprint reader,neutral
+"I connected the file system once just to check, and it worked fine.",file system,neutral
+I haven't interacted with the RAM since setting it up.,RAM,neutral
+"It came with a retina display, which I left untouched.",retina display,neutral
+"I'm aware of the Ethernet port, but it hasn't impacted my experience either way.",Ethernet port,neutral
+"I believe it has a retina display, though I haven’t confirmed that myself.",retina display,neutral
+"My setup includes a air vent, though I don’t rely on it.",air vent,neutral
+"Still learning how to make use of the pre-installed apps, but nothing special yet.",pre-installed apps,neutral
+"The screen resolution is part of the hardware, but I don’t actively use it.",screen resolution,neutral
+I haven’t figured out what the login screen does yet.,login screen,neutral
+"The laptop features a BIOS, though I haven't explored it fully.",BIOS,neutral
+"There’s a activity monitor on the side, but I rarely interact with it.",activity monitor,neutral
+I haven’t figured out what the RAM does yet.,RAM,neutral
+"I connected the speaker grille once just to check, and it worked fine.",speaker grille,neutral
+"There’s a Ethernet port on the side, but I rarely interact with it.",Ethernet port,neutral
+"The touch ID is part of the hardware, but I don’t actively use it.",touch ID,neutral
+"There’s a screen mirroring on the side, but I rarely interact with it.",screen mirroring,neutral
+"The energy saver mode is included in the package, but I haven’t used it so far.",energy saver mode,neutral
+"This model supports light sensor, although I haven't found a reason to try it.",light sensor,neutral
+I haven’t figured out what the webcam does yet.,webcam,neutral
+"Still learning how to make use of the SIM card tray, but nothing special yet.",SIM card tray,neutral
+I haven't interacted with the macOS dock since setting it up.,macOS dock,neutral
+"I connected the SIM card tray once just to check, and it worked fine.",SIM card tray,neutral
+"It came with a file system, which I left untouched.",file system,neutral
+"Not sure how often I’ll use the RAM, but it’s there.",RAM,neutral
+"This model supports recovery partition, although I haven't found a reason to try it.",recovery partition,neutral
+I haven't interacted with the voice assistant since setting it up.,voice assistant,neutral
+"I saw the network diagnostics option, but skipped it during configuration.",network diagnostics,neutral
+"There’s a startup chime on the side, but I rarely interact with it.",startup chime,neutral
+So far I haven’t had to use the recovery partition.,recovery partition,neutral
+"Still learning how to make use of the volume control, but nothing special yet.",volume control,neutral
+"There’s a system preferences on the side, but I rarely interact with it.",system preferences,neutral
+"The macOS dock is included in the package, but I haven’t used it so far.",macOS dock,neutral
+"The language settings is part of the hardware, but I don’t actively use it.",language settings,neutral
+"I connected the disk utility once just to check, and it worked fine.",disk utility,neutral
+"My setup includes a HDMI port, though I don’t rely on it.",HDMI port,neutral
+"I believe it has a speaker grille, though I haven’t confirmed that myself.",speaker grille,neutral
+"I saw the light sensor option, but skipped it during configuration.",light sensor,neutral
+I haven't interacted with the fingerprint reader since setting it up.,fingerprint reader,neutral
+"I noticed the macOS dock during setup, but didn’t pay much attention.",macOS dock,neutral
+"Not sure how often I’ll use the network diagnostics, but it’s there.",network diagnostics,neutral
+"I connected the Ethernet port once just to check, and it worked fine.",Ethernet port,neutral
+"It came with a login screen, which I left untouched.",login screen,neutral
+The presence of air vent was noted but hasn’t been relevant yet.,air vent,neutral
+"I noticed the energy saver mode during setup, but didn’t pay much attention.",energy saver mode,neutral
+"The device comes with a built-in dual boot option, but I haven’t tested it.",dual boot option,neutral
+So far I haven’t had to use the VGA port.,VGA port,neutral
+I haven't interacted with the air vent since setting it up.,air vent,neutral
+"The laptop features a Thunderbolt port, though I haven't explored it fully.",Thunderbolt port,neutral
+"I believe it has a recovery partition, though I haven’t confirmed that myself.",recovery partition,neutral
+I haven't interacted with the IR sensor since setting it up.,IR sensor,neutral
+"Still learning how to make use of the speaker grille, but nothing special yet.",speaker grille,neutral
+"There’s a fingerprint reader on the side, but I rarely interact with it.",fingerprint reader,neutral
+The presence of energy saver mode was noted but hasn’t been relevant yet.,energy saver mode,neutral
+"I'm aware of the speaker grille, but it hasn't impacted my experience either way.",speaker grille,neutral
+"There’s a energy saver mode on the side, but I rarely interact with it.",energy saver mode,neutral
+So far I haven’t had to use the SSD.,SSD,neutral
+"Still learning how to make use of the file system, but nothing special yet.",file system,neutral
+"My setup includes a HDMI port, though I don’t rely on it.",HDMI port,neutral
+I haven’t figured out what the air vent does yet.,air vent,neutral
+"The mission control is part of the hardware, but I don’t actively use it.",mission control,neutral
+"The dual boot option is functional, but I haven't really had a need for it.",dual boot option,neutral
+The presence of activity monitor was noted but hasn’t been relevant yet.,activity monitor,neutral
+I haven’t figured out what the fan control does yet.,fan control,neutral
+"I saw the keyboard layout option, but skipped it during configuration.",keyboard layout,neutral
+"The laptop features a IR sensor, though I haven't explored it fully.",IR sensor,neutral
+"This model supports speaker grille, although I haven't found a reason to try it.",speaker grille,neutral
+So far I haven’t had to use the USB 3.0 port.,USB 3.0 port,neutral
+"This model supports microphone jack, although I haven't found a reason to try it.",microphone jack,neutral
+"I connected the startup chime once just to check, and it worked fine.",startup chime,neutral
+"Still learning how to make use of the screen mirroring, but nothing special yet.",screen mirroring,neutral
+"There’s a air vent on the side, but I rarely interact with it.",air vent,neutral
+So far I haven’t had to use the login items.,login items,neutral
+"It came with a HDMI port, which I left untouched.",HDMI port,neutral
+"I believe it has a retina display, though I haven’t confirmed that myself.",retina display,neutral
+"The device comes with a built-in system report, but I haven’t tested it.",system report,neutral
+The presence of touch ID was noted but hasn’t been relevant yet.,touch ID,neutral
+"There’s a time machine on the side, but I rarely interact with it.",time machine,neutral
+"The laptop features a VGA port, though I haven't explored it fully.",VGA port,neutral
+I just installed the light sensor but haven’t really explored its use yet.,light sensor,neutral
+"The HDMI port is part of the hardware, but I don’t actively use it.",HDMI port,neutral
+"The device comes with a built-in microphone jack, but I haven’t tested it.",microphone jack,neutral
+I haven't interacted with the disk utility since setting it up.,disk utility,neutral
+"I'm aware of the startup chime, but it hasn't impacted my experience either way.",startup chime,neutral
+I haven't interacted with the energy saver mode since setting it up.,energy saver mode,neutral
+The presence of touch ID was noted but hasn’t been relevant yet.,touch ID,neutral
+"The device comes with a built-in VGA port, but I haven’t tested it.",VGA port,neutral
+"I noticed the SSD during setup, but didn’t pay much attention.",SSD,neutral
+So far I haven’t had to use the USB 3.0 port.,USB 3.0 port,neutral
+"The device comes with a built-in volume control, but I haven’t tested it.",volume control,neutral
+"Still learning how to make use of the RAM, but nothing special yet.",RAM,neutral
+I just installed the SSD but haven’t really explored its use yet.,SSD,neutral
+"The laptop features a power brick, though I haven't explored it fully.",power brick,neutral
+"I noticed the language settings during setup, but didn’t pay much attention.",language settings,neutral
+"I believe it has a air vent, though I haven’t confirmed that myself.",air vent,neutral
+"I saw the camera shutter option, but skipped it during configuration.",camera shutter,neutral
+"The recovery partition is included in the package, but I haven’t used it so far.",recovery partition,neutral
+"Still learning how to make use of the HDMI port, but nothing special yet.",HDMI port,neutral
+"This model supports fingerprint reader, although I haven't found a reason to try it.",fingerprint reader,neutral
+"Still learning how to make use of the trackpad gestures, but nothing special yet.",trackpad gestures,neutral
+I just installed the touch ID but haven’t really explored its use yet.,touch ID,neutral
+I haven’t figured out what the trackpad gestures does yet.,trackpad gestures,neutral
+"I'm aware of the camera shutter, but it hasn't impacted my experience either way.",camera shutter,neutral
+"I'm aware of the volume control, but it hasn't impacted my experience either way.",volume control,neutral
+I haven’t figured out what the system report does yet.,system report,neutral
+I haven't interacted with the network diagnostics since setting it up.,network diagnostics,neutral
+"The power brick is part of the hardware, but I don’t actively use it.",power brick,neutral
+"I saw the pre-installed apps option, but skipped it during configuration.",pre-installed apps,neutral
+I just installed the SD card slot but haven’t really explored its use yet.,SD card slot,neutral
+"The laptop features a voice assistant, though I haven't explored it fully.",voice assistant,neutral
+"The macOS dock is functional, but I haven't really had a need for it.",macOS dock,neutral
+"I'm aware of the system preferences, but it hasn't impacted my experience either way.",system preferences,neutral
+"I saw the language settings option, but skipped it during configuration.",language settings,neutral
+"The device comes with a built-in SIM card tray, but I haven’t tested it.",SIM card tray,neutral
+The presence of BIOS was noted but hasn’t been relevant yet.,BIOS,neutral
+"The trackpad gestures is part of the hardware, but I don’t actively use it.",trackpad gestures,neutral
+"Still learning how to make use of the fan control, but nothing special yet.",fan control,neutral
+"My setup includes a dual boot option, though I don’t rely on it.",dual boot option,neutral
+I haven't interacted with the SD card slot since setting it up.,SD card slot,neutral
+"Still learning how to make use of the screen mirroring, but nothing special yet.",screen mirroring,neutral
+So far I haven’t had to use the speaker grille.,speaker grille,neutral
+I just installed the screen mirroring but haven’t really explored its use yet.,screen mirroring,neutral
+"It came with a volume control, which I left untouched.",volume control,neutral
+"I believe it has a Ethernet port, though I haven’t confirmed that myself.",Ethernet port,neutral
+"The fan control is part of the hardware, but I don’t actively use it.",fan control,neutral
+I haven't interacted with the mission control since setting it up.,mission control,neutral
+I haven't interacted with the energy saver mode since setting it up.,energy saver mode,neutral
+"I believe it has a screen mirroring, though I haven’t confirmed that myself.",screen mirroring,neutral
+"Not sure how often I’ll use the screen resolution, but it’s there.",screen resolution,neutral
+"It came with a language settings, which I left untouched.",language settings,neutral
+"The disk utility is functional, but I haven't really had a need for it.",disk utility,neutral
+"This model supports screen mirroring, although I haven't found a reason to try it.",screen mirroring,neutral
+I haven’t figured out what the touch ID does yet.,touch ID,neutral
+"The language settings is included in the package, but I haven’t used it so far.",language settings,neutral
+The presence of fingerprint reader was noted but hasn’t been relevant yet.,fingerprint reader,neutral
+"I believe it has a camera shutter, though I haven’t confirmed that myself.",camera shutter,neutral
+I haven’t figured out what the system report does yet.,system report,neutral
+"Still learning how to make use of the SIM card tray, but nothing special yet.",SIM card tray,neutral
+"The device comes with a built-in keyboard layout, but I haven’t tested it.",keyboard layout,neutral
+I haven’t figured out what the keyboard backlight does yet.,keyboard backlight,neutral
+"There’s a language settings on the side, but I rarely interact with it.",language settings,neutral
+I haven’t figured out what the migration assistant does yet.,migration assistant,neutral
+"The screen mirroring is included in the package, but I haven’t used it so far.",screen mirroring,neutral
+"The device comes with a built-in screen mirroring, but I haven’t tested it.",screen mirroring,neutral
+"Still learning how to make use of the language settings, but nothing special yet.",language settings,neutral
+"I believe it has a Bluetooth, though I haven’t confirmed that myself.",Bluetooth,neutral
+"My setup includes a power brick, though I don’t rely on it.",power brick,neutral
+So far I haven’t had to use the system report.,system report,neutral
+The presence of Ethernet port was noted but hasn’t been relevant yet.,Ethernet port,neutral
+"There’s a mission control on the side, but I rarely interact with it.",mission control,neutral
+I haven’t figured out what the energy saver mode does yet.,energy saver mode,neutral
+"The webcam is included in the package, but I haven’t used it so far.",webcam,neutral
+"The device comes with a built-in IR sensor, but I haven’t tested it.",IR sensor,neutral
+"There’s a activity monitor on the side, but I rarely interact with it.",activity monitor,neutral
+I haven’t figured out what the pre-installed apps does yet.,pre-installed apps,neutral
+I haven't interacted with the HDMI port since setting it up.,HDMI port,neutral
+"Still learning how to make use of the touch ID, but nothing special yet.",touch ID,neutral
+"This model supports SD card slot, although I haven't found a reason to try it.",SD card slot,neutral
+"My setup includes a activity monitor, though I don’t rely on it.",activity monitor,neutral
+"I saw the Bluetooth option, but skipped it during configuration.",Bluetooth,neutral
+I haven’t figured out what the external monitor does yet.,external monitor,neutral
+"The file system is part of the hardware, but I don’t actively use it.",file system,neutral
+"The webcam is included in the package, but I haven’t used it so far.",webcam,neutral
+"It came with a touch ID, which I left untouched.",touch ID,neutral
+The presence of power brick was noted but hasn’t been relevant yet.,power brick,neutral
+I haven't interacted with the macOS dock since setting it up.,macOS dock,neutral
+"This model supports HDMI port, although I haven't found a reason to try it.",HDMI port,neutral
+"I saw the IR sensor option, but skipped it during configuration.",IR sensor,neutral
+"I connected the activity monitor once just to check, and it worked fine.",activity monitor,neutral
+"I'm aware of the USB 3.0 port, but it hasn't impacted my experience either way.",USB 3.0 port,neutral
+"The laptop features a SIM card tray, though I haven't explored it fully.",SIM card tray,neutral
+"There’s a recovery partition on the side, but I rarely interact with it.",recovery partition,neutral
+"I noticed the login screen during setup, but didn’t pay much attention.",login screen,neutral
+"The SD card slot is part of the hardware, but I don’t actively use it.",SD card slot,neutral
+"My setup includes a air vent, though I don’t rely on it.",air vent,neutral
+"My setup includes a touch ID, though I don’t rely on it.",touch ID,neutral
+I haven't interacted with the air vent since setting it up.,air vent,neutral
+I haven't interacted with the touch ID since setting it up.,touch ID,neutral
+"There’s a SSD on the side, but I rarely interact with it.",SSD,neutral
+I haven't interacted with the macOS dock since setting it up.,macOS dock,neutral
+I haven’t figured out what the webcam does yet.,webcam,neutral
+"I'm aware of the disk utility, but it hasn't impacted my experience either way.",disk utility,neutral
+"I noticed the login items during setup, but didn’t pay much attention.",login items,neutral
+"My setup includes a recovery partition, though I don’t rely on it.",recovery partition,neutral
+"The laptop features a light sensor, though I haven't explored it fully.",light sensor,neutral
+"I believe it has a keyboard layout, though I haven’t confirmed that myself.",keyboard layout,neutral
+"It came with a fingerprint reader, which I left untouched.",fingerprint reader,neutral
+"It came with a Bluetooth, which I left untouched.",Bluetooth,neutral
+So far I haven’t had to use the VGA port.,VGA port,neutral
+"My setup includes a Bluetooth, though I don’t rely on it.",Bluetooth,neutral
+"This model supports pre-installed apps, although I haven't found a reason to try it.",pre-installed apps,neutral
+"The login items is functional, but I haven't really had a need for it.",login items,neutral
+The presence of trackpad gestures was noted but hasn’t been relevant yet.,trackpad gestures,neutral
+"I connected the power brick once just to check, and it worked fine.",power brick,neutral
+The presence of speaker grille was noted but hasn’t been relevant yet.,speaker grille,neutral
+"Not sure how often I’ll use the power brick, but it’s there.",power brick,neutral
+I just installed the USB 3.0 port but haven’t really explored its use yet.,USB 3.0 port,neutral
+"The laptop features a BIOS, though I haven't explored it fully.",BIOS,neutral
+"There’s a login screen on the side, but I rarely interact with it.",login screen,neutral
+"I'm aware of the activity monitor, but it hasn't impacted my experience either way.",activity monitor,neutral
+"My setup includes a disk utility, though I don’t rely on it.",disk utility,neutral
+"Still learning how to make use of the system report, but nothing special yet.",system report,neutral
+"The macOS dock is included in the package, but I haven’t used it so far.",macOS dock,neutral
+"There’s a startup chime on the side, but I rarely interact with it.",startup chime,neutral
+"I connected the VGA port once just to check, and it worked fine.",VGA port,neutral
+"I'm aware of the Thunderbolt port, but it hasn't impacted my experience either way.",Thunderbolt port,neutral
+I just installed the microphone jack but haven’t really explored its use yet.,microphone jack,neutral
+"I'm aware of the activity monitor, but it hasn't impacted my experience either way.",activity monitor,neutral
+"I believe it has a startup chime, though I haven’t confirmed that myself.",startup chime,neutral
+"I believe it has a login screen, though I haven’t confirmed that myself.",login screen,neutral
+"I connected the BIOS once just to check, and it worked fine.",BIOS,neutral
+"The light sensor is functional, but I haven't really had a need for it.",light sensor,neutral
+"The device comes with a built-in USB 3.0 port, but I haven’t tested it.",USB 3.0 port,neutral
+"The camera shutter is part of the hardware, but I don’t actively use it.",camera shutter,neutral
+"I noticed the recovery partition during setup, but didn’t pay much attention.",recovery partition,neutral
+So far I haven’t had to use the screen mirroring.,screen mirroring,neutral
+"The device comes with a built-in login items, but I haven’t tested it.",login items,neutral
+The presence of file system was noted but hasn’t been relevant yet.,file system,neutral
+The presence of login items was noted but hasn’t been relevant yet.,login items,neutral
+I just installed the Ethernet port but haven’t really explored its use yet.,Ethernet port,neutral
+"Still learning how to make use of the time machine, but nothing special yet.",time machine,neutral
+I haven’t figured out what the migration assistant does yet.,migration assistant,neutral
+"I connected the SD card slot once just to check, and it worked fine.",SD card slot,neutral
+"There’s a external monitor on the side, but I rarely interact with it.",external monitor,neutral
